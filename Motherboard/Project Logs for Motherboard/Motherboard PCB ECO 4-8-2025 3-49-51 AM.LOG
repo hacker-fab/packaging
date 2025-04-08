@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Pin14 Pin=J1-18
+Added Pin To Net: NetName=Pin24 Pin=J1-18
+Added Net: Name=Pin24
+Added Member To Class: ClassName=Pin[1..30] Member=Element[23]: Pin

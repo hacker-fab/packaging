@@ -1,0 +1,200 @@
+Removed Pin From Net: NetName=GND Pin=R2_Resistors31-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors32-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors33-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors34-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors35-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors36-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors37-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors38-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors39-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors40-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors41-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors42-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors43-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors44-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors45-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors46-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors47-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors48-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors49-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors50-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors51-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors52-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors53-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors54-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors55-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors56-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors57-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors58-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors59-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors60-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors61-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors62-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors63-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors64-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors65-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors66-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors67-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors68-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors69-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors70-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors71-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors72-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors73-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors74-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors75-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors76-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors77-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors78-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors79-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors80-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors81-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors82-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors83-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors84-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors85-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors86-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors87-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors88-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors89-2
+Removed Pin From Net: NetName=GND Pin=R2_Resistors90-2
+Removed Member From Class: ClassName=Resistors Member=Resistors31
+Removed Member From Class: ClassName=Resistors Member=Resistors32
+Removed Member From Class: ClassName=Resistors Member=Resistors33
+Removed Member From Class: ClassName=Resistors Member=Resistors34
+Removed Member From Class: ClassName=Resistors Member=Resistors35
+Removed Member From Class: ClassName=Resistors Member=Resistors36
+Removed Member From Class: ClassName=Resistors Member=Resistors37
+Removed Member From Class: ClassName=Resistors Member=Resistors38
+Removed Member From Class: ClassName=Resistors Member=Resistors39
+Removed Member From Class: ClassName=Resistors Member=Resistors40
+Removed Member From Class: ClassName=Resistors Member=Resistors41
+Removed Member From Class: ClassName=Resistors Member=Resistors42
+Removed Member From Class: ClassName=Resistors Member=Resistors43
+Removed Member From Class: ClassName=Resistors Member=Resistors44
+Removed Member From Class: ClassName=Resistors Member=Resistors45
+Removed Member From Class: ClassName=Resistors Member=Resistors46
+Removed Member From Class: ClassName=Resistors Member=Resistors47
+Removed Member From Class: ClassName=Resistors Member=Resistors48
+Removed Member From Class: ClassName=Resistors Member=Resistors49
+Removed Member From Class: ClassName=Resistors Member=Resistors50
+Removed Member From Class: ClassName=Resistors Member=Resistors51
+Removed Member From Class: ClassName=Resistors Member=Resistors52
+Removed Member From Class: ClassName=Resistors Member=Resistors53
+Removed Member From Class: ClassName=Resistors Member=Resistors54
+Removed Member From Class: ClassName=Resistors Member=Resistors55
+Removed Member From Class: ClassName=Resistors Member=Resistors56
+Removed Member From Class: ClassName=Resistors Member=Resistors57
+Removed Member From Class: ClassName=Resistors Member=Resistors58
+Removed Member From Class: ClassName=Resistors Member=Resistors59
+Removed Member From Class: ClassName=Resistors Member=Resistors60
+Removed Member From Class: ClassName=Resistors Member=Resistors61
+Removed Member From Class: ClassName=Resistors Member=Resistors62
+Removed Member From Class: ClassName=Resistors Member=Resistors63
+Removed Member From Class: ClassName=Resistors Member=Resistors64
+Removed Member From Class: ClassName=Resistors Member=Resistors65
+Removed Member From Class: ClassName=Resistors Member=Resistors66
+Removed Member From Class: ClassName=Resistors Member=Resistors67
+Removed Member From Class: ClassName=Resistors Member=Resistors68
+Removed Member From Class: ClassName=Resistors Member=Resistors69
+Removed Member From Class: ClassName=Resistors Member=Resistors70
+Removed Member From Class: ClassName=Resistors Member=Resistors71
+Removed Member From Class: ClassName=Resistors Member=Resistors72
+Removed Member From Class: ClassName=Resistors Member=Resistors73
+Removed Member From Class: ClassName=Resistors Member=Resistors74
+Removed Member From Class: ClassName=Resistors Member=Resistors75
+Removed Member From Class: ClassName=Resistors Member=Resistors76
+Removed Member From Class: ClassName=Resistors Member=Resistors77
+Removed Member From Class: ClassName=Resistors Member=Resistors78
+Removed Member From Class: ClassName=Resistors Member=Resistors79
+Removed Member From Class: ClassName=Resistors Member=Resistors80
+Removed Member From Class: ClassName=Resistors Member=Resistors81
+Removed Member From Class: ClassName=Resistors Member=Resistors82
+Removed Member From Class: ClassName=Resistors Member=Resistors83
+Removed Member From Class: ClassName=Resistors Member=Resistors84
+Removed Member From Class: ClassName=Resistors Member=Resistors85
+Removed Member From Class: ClassName=Resistors Member=Resistors86
+Removed Member From Class: ClassName=Resistors Member=Resistors87
+Removed Member From Class: ClassName=Resistors Member=Resistors88
+Removed Member From Class: ClassName=Resistors Member=Resistors89
+Removed Member From Class: ClassName=Resistors Member=Resistors90
+Added Component: Designator=J2(HDRV15W64P0X254_1X15_3810X249X886P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph1-15-ua/adam-tech?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.865mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "737-PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Adam-Tech/PH1-15-UA?qs=HoCaDK9Nz5dUS47ZXPBTBg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(HDRV15W64P0X254_1X15_3810X249X886P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph1-15-ua/adam-tech?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.865mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "737-PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Adam-Tech/PH1-15-UA?qs=HoCaDK9Nz5dUS47ZXPBTBg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Package1 Pin=J2-1
+Added Net: Name=Package1
+Added Pin To Net: NetName=Package2 Pin=J2-2
+Added Net: Name=Package2
+Added Pin To Net: NetName=Package3 Pin=J2-3
+Added Net: Name=Package3
+Added Pin To Net: NetName=Package4 Pin=J2-4
+Added Net: Name=Package4
+Added Pin To Net: NetName=Package5 Pin=J2-5
+Added Net: Name=Package5
+Added Pin To Net: NetName=Package6 Pin=J2-6
+Added Net: Name=Package6
+Added Pin To Net: NetName=Package7 Pin=J2-7
+Added Net: Name=Package7
+Added Pin To Net: NetName=Package8 Pin=J2-8
+Added Net: Name=Package8
+Added Pin To Net: NetName=Package9 Pin=J2-9
+Added Net: Name=Package9
+Added Pin To Net: NetName=Package10 Pin=J2-10
+Added Net: Name=Package10
+Added Pin To Net: NetName=Package11 Pin=J2-11
+Added Net: Name=Package11
+Added Pin To Net: NetName=Package12 Pin=J2-12
+Added Net: Name=Package12
+Added Pin To Net: NetName=Package13 Pin=J2-13
+Added Net: Name=Package13
+Added Pin To Net: NetName=Package14 Pin=J2-14
+Added Net: Name=Package14
+Added Pin To Net: NetName=Package15 Pin=J2-15
+Added Net: Name=Package15
+Added Pin To Net: NetName=Package16 Pin=J3-1
+Added Net: Name=Package16
+Added Pin To Net: NetName=Package17 Pin=J3-2
+Added Net: Name=Package17
+Added Pin To Net: NetName=Package18 Pin=J3-3
+Added Net: Name=Package18
+Added Pin To Net: NetName=Package19 Pin=J3-4
+Added Net: Name=Package19
+Added Pin To Net: NetName=Package20 Pin=J3-5
+Added Net: Name=Package20
+Added Pin To Net: NetName=Package21 Pin=J3-6
+Added Net: Name=Package21
+Added Pin To Net: NetName=Package22 Pin=J3-7
+Added Net: Name=Package22
+Added Pin To Net: NetName=Package23 Pin=J3-8
+Added Net: Name=Package23
+Added Pin To Net: NetName=Package24 Pin=J3-9
+Added Net: Name=Package24
+Added Pin To Net: NetName=Package25 Pin=J3-10
+Added Net: Name=Package25
+Added Pin To Net: NetName=Package26 Pin=J3-11
+Added Net: Name=Package26
+Added Pin To Net: NetName=Package27 Pin=J3-12
+Added Net: Name=Package27
+Added Pin To Net: NetName=Package28 Pin=J3-13
+Added Net: Name=Package28
+Added Pin To Net: NetName=Package29 Pin=J3-14
+Added Net: Name=Package29
+Added Pin To Net: NetName=Package30 Pin=J3-15
+Added Net: Name=Package30
+Added Class: Name=Package Sockets
+Added Class: Name=Package[1..30]
