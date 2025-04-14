@@ -1,0 +1,395 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\14405\Desktop\School\CMU\18469\packaging\Motherboard\Motherboard.PcbDoc
+Date     : 4/13/2025
+Time     : 3:41:10 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Via (-132.75mm,15mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-132.75mm,-15mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-133.5mm,13.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-133.5mm,-13.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-133.5mm,16.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-133.5mm,-16.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-135mm,12.75mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-135mm,-12.75mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-135mm,17.25mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-135mm,-17.25mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-136.5mm,13.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-136.5mm,-13.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-136.5mm,16.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-136.5mm,-16.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-137.25mm,15mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-137.25mm,-15mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-14.75mm,30mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-14.75mm,-30mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-15.5mm,28.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-15.5mm,-28.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-15.5mm,31.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-15.5mm,-31.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-17mm,27.75mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-17mm,-27.75mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-17mm,32.25mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-17mm,-32.25mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-18.5mm,28.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-18.5mm,-28.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-18.5mm,31.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-18.5mm,-31.5mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-19.25mm,30mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Via (-19.25mm,-30mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
+Rule Violations :32
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.508mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-2(-135mm,15mm) on Multi-Layer Actual Hole Size = 3.4mm
+   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-2(-135mm,-15mm) on Multi-Layer Actual Hole Size = 3.4mm
+   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-2(-17mm,30mm) on Multi-Layer Actual Hole Size = 3.4mm
+   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-2(-17mm,-30mm) on Multi-Layer Actual Hole Size = 3.4mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-135mm,15mm) on Multi-Layer And Via (-133.5mm,13.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-135mm,-15mm) on Multi-Layer And Via (-133.5mm,-13.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-135mm,15mm) on Multi-Layer And Via (-133.5mm,16.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-135mm,-15mm) on Multi-Layer And Via (-133.5mm,-16.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-135mm,15mm) on Multi-Layer And Via (-136.5mm,13.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-135mm,-15mm) on Multi-Layer And Via (-136.5mm,-13.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-135mm,15mm) on Multi-Layer And Via (-136.5mm,16.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-135mm,-15mm) on Multi-Layer And Via (-136.5mm,-16.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-17mm,30mm) on Multi-Layer And Via (-15.5mm,28.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-17mm,-30mm) on Multi-Layer And Via (-15.5mm,-28.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-17mm,30mm) on Multi-Layer And Via (-15.5mm,31.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-17mm,-30mm) on Multi-Layer And Via (-15.5mm,-31.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-17mm,30mm) on Multi-Layer And Via (-18.5mm,28.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-17mm,-30mm) on Multi-Layer And Via (-18.5mm,-28.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-17mm,30mm) on Multi-Layer And Via (-18.5mm,31.5mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.167mm < 0.254mm) Between Pad Free-2(-17mm,-30mm) on Multi-Layer And Via (-18.5mm,-31.5mm) from Top Layer to Bottom Layer 
+Rule Violations :16
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,0.479mm) on Bottom Overlay And Pad C1_Decaps8-1(-15.3mm,0.479mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-10.542mm) on Bottom Overlay And Pad C1_Decaps24-1(-15.3mm,-10.542mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,10.583mm) on Bottom Overlay And Pad C1_Decaps18-1(-15.3mm,10.583mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,12.396mm) on Bottom Overlay And Pad C1_Decaps12-1(-15.3mm,12.396mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-12.438mm) on Bottom Overlay And Pad C1_Decaps4-1(-15.3mm,-12.437mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-13.896mm) on Bottom Overlay And Pad C1_Decaps25-1(-15.3mm,-13.896mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,13.937mm) on Bottom Overlay And Pad C1_Decaps17-1(-15.3mm,13.937mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,15.5mm) on Bottom Overlay And Pad C1_Decaps13-1(-15.3mm,15.5mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-15.792mm) on Bottom Overlay And Pad C1_Decaps3-1(-15.3mm,-15.792mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,17.042mm) on Bottom Overlay And Pad C1_Decaps16-1(-15.3mm,17.042mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-17.25mm) on Bottom Overlay And Pad C1_Decaps26-1(-15.3mm,-17.25mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,18.75mm) on Bottom Overlay And Pad C1_Decaps15-1(-15.3mm,18.75mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-19.25mm) on Bottom Overlay And Pad C1_Decaps2-1(-15.3mm,-19.25mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-1mm) on Bottom Overlay And Pad C1_Decaps21-1(-15.3mm,-1mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,2.333mm) on Bottom Overlay And Pad C1_Decaps9-1(-15.3mm,2.333mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-2.625mm) on Bottom Overlay And Pad C1_Decaps7-1(-15.3mm,-2.625mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,20.25mm) on Bottom Overlay And Pad C1_Decaps14-1(-15.3mm,20.25mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-20.75mm) on Bottom Overlay And Pad C1_Decaps1-1(-15.3mm,-20.75mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,3.875mm) on Bottom Overlay And Pad C1_Decaps20-1(-15.3mm,3.875mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-4.083mm) on Bottom Overlay And Pad C1_Decaps22-1(-15.3mm,-4.083mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,5.687mm) on Bottom Overlay And Pad C1_Decaps10-1(-15.3mm,5.687mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-5.729mm) on Bottom Overlay And Pad C1_Decaps6-1(-15.3mm,-5.729mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-7.187mm) on Bottom Overlay And Pad C1_Decaps23-1(-15.3mm,-7.188mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,7.229mm) on Bottom Overlay And Pad C1_Decaps19-1(-15.3mm,7.229mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,9.042mm) on Bottom Overlay And Pad C1_Decaps11-1(-15.3mm,9.042mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.225mm < 0.254mm) Between Arc (-16.15mm,-9.083mm) on Bottom Overlay And Pad C1_Decaps5-1(-15.3mm,-9.083mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.225mm]
+Rule Violations :26
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room Resistors33 (Bounding Region = (111.26mm, 48.5mm, 112.76mm, 61mm) (InComponentClass('Resistors33'))
+   Violation between Room Definition: Between Room Resistors33 (Bounding Region = (111.26mm, 48.5mm, 112.76mm, 61mm) (InComponentClass('Resistors33')) And SMT Small Component R1_Resistors33-1k (-55.24mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors33 (Bounding Region = (111.26mm, 48.5mm, 112.76mm, 61mm) (InComponentClass('Resistors33')) And SMT Small Component R2_Resistors33-1k (-55.24mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors32 (Bounding Region = (113.8mm, 48.5mm, 115.3mm, 61mm) (InComponentClass('Resistors32'))
+   Violation between Room Definition: Between Room Resistors32 (Bounding Region = (113.8mm, 48.5mm, 115.3mm, 61mm) (InComponentClass('Resistors32')) And SMT Small Component R1_Resistors32-1k (-52.7mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors32 (Bounding Region = (113.8mm, 48.5mm, 115.3mm, 61mm) (InComponentClass('Resistors32')) And SMT Small Component R2_Resistors32-1k (-52.7mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors34 (Bounding Region = (108.72mm, 48.5mm, 110.22mm, 61mm) (InComponentClass('Resistors34'))
+   Violation between Room Definition: Between Room Resistors34 (Bounding Region = (108.72mm, 48.5mm, 110.22mm, 61mm) (InComponentClass('Resistors34')) And SMT Small Component R1_Resistors34-1k (-57.78mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors34 (Bounding Region = (108.72mm, 48.5mm, 110.22mm, 61mm) (InComponentClass('Resistors34')) And SMT Small Component R2_Resistors34-1k (-57.78mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors36 (Bounding Region = (103.64mm, 48.5mm, 105.14mm, 61mm) (InComponentClass('Resistors36'))
+   Violation between Room Definition: Between Room Resistors36 (Bounding Region = (103.64mm, 48.5mm, 105.14mm, 61mm) (InComponentClass('Resistors36')) And SMT Small Component R1_Resistors36-1k (-62.86mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors36 (Bounding Region = (103.64mm, 48.5mm, 105.14mm, 61mm) (InComponentClass('Resistors36')) And SMT Small Component R2_Resistors36-1k (-62.86mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors35 (Bounding Region = (106.18mm, 48.5mm, 107.68mm, 61mm) (InComponentClass('Resistors35'))
+   Violation between Room Definition: Between Room Resistors35 (Bounding Region = (106.18mm, 48.5mm, 107.68mm, 61mm) (InComponentClass('Resistors35')) And SMT Small Component R1_Resistors35-1k (-60.32mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors35 (Bounding Region = (106.18mm, 48.5mm, 107.68mm, 61mm) (InComponentClass('Resistors35')) And SMT Small Component R2_Resistors35-1k (-60.32mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors31 (Bounding Region = (116.34mm, 48.5mm, 117.84mm, 61mm) (InComponentClass('Resistors31'))
+   Violation between Room Definition: Between Room Resistors31 (Bounding Region = (116.34mm, 48.5mm, 117.84mm, 61mm) (InComponentClass('Resistors31')) And SMT Small Component R1_Resistors31-1k (-50.16mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors31 (Bounding Region = (116.34mm, 48.5mm, 117.84mm, 61mm) (InComponentClass('Resistors31')) And SMT Small Component R2_Resistors31-1k (-50.16mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors27 (Bounding Region = (126.5mm, 48.5mm, 128mm, 61mm) (InComponentClass('Resistors27'))
+   Violation between Room Definition: Between Room Resistors27 (Bounding Region = (126.5mm, 48.5mm, 128mm, 61mm) (InComponentClass('Resistors27')) And SMT Small Component R1_Resistors27-1k (-40mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors27 (Bounding Region = (126.5mm, 48.5mm, 128mm, 61mm) (InComponentClass('Resistors27')) And SMT Small Component R2_Resistors27-1k (-40mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Package2 (Bounding Region = (89.5mm, 52.5mm, 129.25mm, 106.75mm) (InComponentClass('Package2'))
+Rule Violations :0
+
+Processing Rule : Room Resistors28 (Bounding Region = (123.96mm, 48.5mm, 125.46mm, 61mm) (InComponentClass('Resistors28'))
+   Violation between Room Definition: Between Room Resistors28 (Bounding Region = (123.96mm, 48.5mm, 125.46mm, 61mm) (InComponentClass('Resistors28')) And SMT Small Component R1_Resistors28-1k (-42.54mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors28 (Bounding Region = (123.96mm, 48.5mm, 125.46mm, 61mm) (InComponentClass('Resistors28')) And SMT Small Component R2_Resistors28-1k (-42.54mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors30 (Bounding Region = (118.88mm, 48.5mm, 120.38mm, 61mm) (InComponentClass('Resistors30'))
+   Violation between Room Definition: Between Room Resistors30 (Bounding Region = (118.88mm, 48.5mm, 120.38mm, 61mm) (InComponentClass('Resistors30')) And SMT Small Component R1_Resistors30-1k (-47.62mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors30 (Bounding Region = (118.88mm, 48.5mm, 120.38mm, 61mm) (InComponentClass('Resistors30')) And SMT Small Component R2_Resistors30-1k (-47.62mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors29 (Bounding Region = (121.42mm, 48.5mm, 122.92mm, 61mm) (InComponentClass('Resistors29'))
+   Violation between Room Definition: Between Room Resistors29 (Bounding Region = (121.42mm, 48.5mm, 122.92mm, 61mm) (InComponentClass('Resistors29')) And SMT Small Component R1_Resistors29-1k (-45.08mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors29 (Bounding Region = (121.42mm, 48.5mm, 122.92mm, 61mm) (InComponentClass('Resistors29')) And SMT Small Component R2_Resistors29-1k (-45.08mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors15 (Bounding Region = (68.96mm, 98.36mm, 70.46mm, 110.86mm) (InComponentClass('Resistors15'))
+   Violation between Room Definition: Between Room Resistors15 (Bounding Region = (68.96mm, 98.36mm, 70.46mm, 110.86mm) (InComponentClass('Resistors15')) And SMT Small Component R1_Resistors15-1k (-97.54mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors15 (Bounding Region = (68.96mm, 98.36mm, 70.46mm, 110.86mm) (InComponentClass('Resistors15')) And SMT Small Component R2_Resistors15-1k (-97.54mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors14 (Bounding Region = (71.5mm, 98.36mm, 73mm, 110.86mm) (InComponentClass('Resistors14'))
+   Violation between Room Definition: Between Room Resistors14 (Bounding Region = (71.5mm, 98.36mm, 73mm, 110.86mm) (InComponentClass('Resistors14')) And SMT Small Component R1_Resistors14-1k (-95mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors14 (Bounding Region = (71.5mm, 98.36mm, 73mm, 110.86mm) (InComponentClass('Resistors14')) And SMT Small Component R2_Resistors14-1k (-95mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors16 (Bounding Region = (66.42mm, 98.36mm, 67.92mm, 110.86mm) (InComponentClass('Resistors16'))
+   Violation between Room Definition: Between Room Resistors16 (Bounding Region = (66.42mm, 98.36mm, 67.92mm, 110.86mm) (InComponentClass('Resistors16')) And SMT Small Component R1_Resistors16-1k (-100.08mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors16 (Bounding Region = (66.42mm, 98.36mm, 67.92mm, 110.86mm) (InComponentClass('Resistors16')) And SMT Small Component R2_Resistors16-1k (-100.08mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors18 (Bounding Region = (61.34mm, 98.36mm, 62.84mm, 110.86mm) (InComponentClass('Resistors18'))
+   Violation between Room Definition: Between Room Resistors18 (Bounding Region = (61.34mm, 98.36mm, 62.84mm, 110.86mm) (InComponentClass('Resistors18')) And SMT Small Component R1_Resistors18-1k (-105.16mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors18 (Bounding Region = (61.34mm, 98.36mm, 62.84mm, 110.86mm) (InComponentClass('Resistors18')) And SMT Small Component R2_Resistors18-1k (-105.16mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors17 (Bounding Region = (63.88mm, 98.36mm, 65.38mm, 110.86mm) (InComponentClass('Resistors17'))
+   Violation between Room Definition: Between Room Resistors17 (Bounding Region = (63.88mm, 98.36mm, 65.38mm, 110.86mm) (InComponentClass('Resistors17')) And SMT Small Component R1_Resistors17-1k (-102.62mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors17 (Bounding Region = (63.88mm, 98.36mm, 65.38mm, 110.86mm) (InComponentClass('Resistors17')) And SMT Small Component R2_Resistors17-1k (-102.62mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors2 (Bounding Region = (68.981mm, 48.5mm, 70.481mm, 61mm) (InComponentClass('Resistors2'))
+   Violation between Room Definition: Between Room Resistors2 (Bounding Region = (68.981mm, 48.5mm, 70.481mm, 61mm) (InComponentClass('Resistors2')) And SMT Small Component R1_Resistors2-1k (-97.519mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors2 (Bounding Region = (68.981mm, 48.5mm, 70.481mm, 61mm) (InComponentClass('Resistors2')) And SMT Small Component R2_Resistors2-1k (-97.519mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors6 (Bounding Region = (58.821mm, 48.5mm, 60.321mm, 61mm) (InComponentClass('Resistors6'))
+   Violation between Room Definition: Between Room Resistors6 (Bounding Region = (58.821mm, 48.5mm, 60.321mm, 61mm) (InComponentClass('Resistors6')) And SMT Small Component R1_Resistors6-1k (-107.679mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors6 (Bounding Region = (58.821mm, 48.5mm, 60.321mm, 61mm) (InComponentClass('Resistors6')) And SMT Small Component R2_Resistors6-1k (-107.679mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors11 (Bounding Region = (46.121mm, 48.5mm, 47.621mm, 61mm) (InComponentClass('Resistors11'))
+   Violation between Room Definition: Between Room Resistors11 (Bounding Region = (46.121mm, 48.5mm, 47.621mm, 61mm) (InComponentClass('Resistors11')) And SMT Small Component R1_Resistors11-1k (-120.379mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors11 (Bounding Region = (46.121mm, 48.5mm, 47.621mm, 61mm) (InComponentClass('Resistors11')) And SMT Small Component R2_Resistors11-1k (-120.379mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors5 (Bounding Region = (61.361mm, 48.5mm, 62.861mm, 61mm) (InComponentClass('Resistors5'))
+   Violation between Room Definition: Between Room Resistors5 (Bounding Region = (61.361mm, 48.5mm, 62.861mm, 61mm) (InComponentClass('Resistors5')) And SMT Small Component R1_Resistors5-1k (-105.139mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors5 (Bounding Region = (61.361mm, 48.5mm, 62.861mm, 61mm) (InComponentClass('Resistors5')) And SMT Small Component R2_Resistors5-1k (-105.139mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors3 (Bounding Region = (66.441mm, 48.5mm, 67.941mm, 61mm) (InComponentClass('Resistors3'))
+   Violation between Room Definition: Between Room Resistors3 (Bounding Region = (66.441mm, 48.5mm, 67.941mm, 61mm) (InComponentClass('Resistors3')) And SMT Small Component R1_Resistors3-1k (-100.059mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors3 (Bounding Region = (66.441mm, 48.5mm, 67.941mm, 61mm) (InComponentClass('Resistors3')) And SMT Small Component R2_Resistors3-1k (-100.059mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors4 (Bounding Region = (63.901mm, 48.5mm, 65.401mm, 61mm) (InComponentClass('Resistors4'))
+   Violation between Room Definition: Between Room Resistors4 (Bounding Region = (63.901mm, 48.5mm, 65.401mm, 61mm) (InComponentClass('Resistors4')) And SMT Small Component R1_Resistors4-1k (-102.599mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors4 (Bounding Region = (63.901mm, 48.5mm, 65.401mm, 61mm) (InComponentClass('Resistors4')) And SMT Small Component R2_Resistors4-1k (-102.599mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors26 (Bounding Region = (41.02mm, 98.36mm, 42.52mm, 110.86mm) (InComponentClass('Resistors26'))
+   Violation between Room Definition: Between Room Resistors26 (Bounding Region = (41.02mm, 98.36mm, 42.52mm, 110.86mm) (InComponentClass('Resistors26')) And SMT Small Component R1_Resistors26-1k (-125.48mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors26 (Bounding Region = (41.02mm, 98.36mm, 42.52mm, 110.86mm) (InComponentClass('Resistors26')) And SMT Small Component R2_Resistors26-1k (-125.48mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors25 (Bounding Region = (43.56mm, 98.36mm, 45.06mm, 110.86mm) (InComponentClass('Resistors25'))
+   Violation between Room Definition: Between Room Resistors25 (Bounding Region = (43.56mm, 98.36mm, 45.06mm, 110.86mm) (InComponentClass('Resistors25')) And SMT Small Component R1_Resistors25-1k (-122.94mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors25 (Bounding Region = (43.56mm, 98.36mm, 45.06mm, 110.86mm) (InComponentClass('Resistors25')) And SMT Small Component R2_Resistors25-1k (-122.94mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors48 (Bounding Region = (106.18mm, 98.36mm, 107.68mm, 110.86mm) (InComponentClass('Resistors48'))
+   Violation between Room Definition: Between Room Resistors48 (Bounding Region = (106.18mm, 98.36mm, 107.68mm, 110.86mm) (InComponentClass('Resistors48')) And SMT Small Component R1_Resistors48-1k (-60.32mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors48 (Bounding Region = (106.18mm, 98.36mm, 107.68mm, 110.86mm) (InComponentClass('Resistors48')) And SMT Small Component R2_Resistors48-1k (-60.32mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Package1 (Bounding Region = (34.5mm, 52.5mm, 74.25mm, 106.75mm) (InComponentClass('Package1'))
+Rule Violations :0
+
+Processing Rule : Room Resistors52 (Bounding Region = (96.02mm, 98.36mm, 97.52mm, 110.86mm) (InComponentClass('Resistors52'))
+   Violation between Room Definition: Between Room Resistors52 (Bounding Region = (96.02mm, 98.36mm, 97.52mm, 110.86mm) (InComponentClass('Resistors52')) And SMT Small Component R1_Resistors52-1k (-70.48mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors52 (Bounding Region = (96.02mm, 98.36mm, 97.52mm, 110.86mm) (InComponentClass('Resistors52')) And SMT Small Component R2_Resistors52-1k (-70.48mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors24 (Bounding Region = (46.1mm, 98.36mm, 47.6mm, 110.86mm) (InComponentClass('Resistors24'))
+   Violation between Room Definition: Between Room Resistors24 (Bounding Region = (46.1mm, 98.36mm, 47.6mm, 110.86mm) (InComponentClass('Resistors24')) And SMT Small Component R1_Resistors24-1k (-120.4mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors24 (Bounding Region = (46.1mm, 98.36mm, 47.6mm, 110.86mm) (InComponentClass('Resistors24')) And SMT Small Component R2_Resistors24-1k (-120.4mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors20 (Bounding Region = (56.26mm, 98.36mm, 57.76mm, 110.86mm) (InComponentClass('Resistors20'))
+   Violation between Room Definition: Between Room Resistors20 (Bounding Region = (56.26mm, 98.36mm, 57.76mm, 110.86mm) (InComponentClass('Resistors20')) And SMT Small Component R1_Resistors20-1k (-110.24mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors20 (Bounding Region = (56.26mm, 98.36mm, 57.76mm, 110.86mm) (InComponentClass('Resistors20')) And SMT Small Component R2_Resistors20-1k (-110.24mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors19 (Bounding Region = (58.8mm, 98.36mm, 60.3mm, 110.86mm) (InComponentClass('Resistors19'))
+   Violation between Room Definition: Between Room Resistors19 (Bounding Region = (58.8mm, 98.36mm, 60.3mm, 110.86mm) (InComponentClass('Resistors19')) And SMT Small Component R1_Resistors19-1k (-107.7mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors19 (Bounding Region = (58.8mm, 98.36mm, 60.3mm, 110.86mm) (InComponentClass('Resistors19')) And SMT Small Component R2_Resistors19-1k (-107.7mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors21 (Bounding Region = (53.72mm, 98.36mm, 55.22mm, 110.86mm) (InComponentClass('Resistors21'))
+   Violation between Room Definition: Between Room Resistors21 (Bounding Region = (53.72mm, 98.36mm, 55.22mm, 110.86mm) (InComponentClass('Resistors21')) And SMT Small Component R1_Resistors21-1k (-112.78mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors21 (Bounding Region = (53.72mm, 98.36mm, 55.22mm, 110.86mm) (InComponentClass('Resistors21')) And SMT Small Component R2_Resistors21-1k (-112.78mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors23 (Bounding Region = (48.64mm, 98.36mm, 50.14mm, 110.86mm) (InComponentClass('Resistors23'))
+   Violation between Room Definition: Between Room Resistors23 (Bounding Region = (48.64mm, 98.36mm, 50.14mm, 110.86mm) (InComponentClass('Resistors23')) And SMT Small Component R1_Resistors23-1k (-117.86mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors23 (Bounding Region = (48.64mm, 98.36mm, 50.14mm, 110.86mm) (InComponentClass('Resistors23')) And SMT Small Component R2_Resistors23-1k (-117.86mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors22 (Bounding Region = (51.18mm, 98.36mm, 52.68mm, 110.86mm) (InComponentClass('Resistors22'))
+   Violation between Room Definition: Between Room Resistors22 (Bounding Region = (51.18mm, 98.36mm, 52.68mm, 110.86mm) (InComponentClass('Resistors22')) And SMT Small Component R1_Resistors22-1k (-115.32mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors22 (Bounding Region = (51.18mm, 98.36mm, 52.68mm, 110.86mm) (InComponentClass('Resistors22')) And SMT Small Component R2_Resistors22-1k (-115.32mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors13 (Bounding Region = (41.041mm, 48.5mm, 42.541mm, 61mm) (InComponentClass('Resistors13'))
+   Violation between Room Definition: Between Room Resistors13 (Bounding Region = (41.041mm, 48.5mm, 42.541mm, 61mm) (InComponentClass('Resistors13')) And SMT Small Component R1_Resistors13-1k (-125.459mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors13 (Bounding Region = (41.041mm, 48.5mm, 42.541mm, 61mm) (InComponentClass('Resistors13')) And SMT Small Component R2_Resistors13-1k (-125.459mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors44 (Bounding Region = (116.34mm, 98.36mm, 117.84mm, 110.86mm) (InComponentClass('Resistors44'))
+   Violation between Room Definition: Between Room Resistors44 (Bounding Region = (116.34mm, 98.36mm, 117.84mm, 110.86mm) (InComponentClass('Resistors44')) And SMT Small Component R1_Resistors44-1k (-50.16mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors44 (Bounding Region = (116.34mm, 98.36mm, 117.84mm, 110.86mm) (InComponentClass('Resistors44')) And SMT Small Component R2_Resistors44-1k (-50.16mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors43 (Bounding Region = (118.88mm, 98.36mm, 120.38mm, 110.86mm) (InComponentClass('Resistors43'))
+   Violation between Room Definition: Between Room Resistors43 (Bounding Region = (118.88mm, 98.36mm, 120.38mm, 110.86mm) (InComponentClass('Resistors43')) And SMT Small Component R1_Resistors43-1k (-47.62mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors43 (Bounding Region = (118.88mm, 98.36mm, 120.38mm, 110.86mm) (InComponentClass('Resistors43')) And SMT Small Component R2_Resistors43-1k (-47.62mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors45 (Bounding Region = (113.8mm, 98.36mm, 115.3mm, 110.86mm) (InComponentClass('Resistors45'))
+   Violation between Room Definition: Between Room Resistors45 (Bounding Region = (113.8mm, 98.36mm, 115.3mm, 110.86mm) (InComponentClass('Resistors45')) And SMT Small Component R1_Resistors45-1k (-52.7mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors45 (Bounding Region = (113.8mm, 98.36mm, 115.3mm, 110.86mm) (InComponentClass('Resistors45')) And SMT Small Component R2_Resistors45-1k (-52.7mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors47 (Bounding Region = (108.72mm, 98.36mm, 110.22mm, 110.86mm) (InComponentClass('Resistors47'))
+   Violation between Room Definition: Between Room Resistors47 (Bounding Region = (108.72mm, 98.36mm, 110.22mm, 110.86mm) (InComponentClass('Resistors47')) And SMT Small Component R1_Resistors47-1k (-57.78mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors47 (Bounding Region = (108.72mm, 98.36mm, 110.22mm, 110.86mm) (InComponentClass('Resistors47')) And SMT Small Component R2_Resistors47-1k (-57.78mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors46 (Bounding Region = (111.26mm, 98.36mm, 112.76mm, 110.86mm) (InComponentClass('Resistors46'))
+   Violation between Room Definition: Between Room Resistors46 (Bounding Region = (111.26mm, 98.36mm, 112.76mm, 110.86mm) (InComponentClass('Resistors46')) And SMT Small Component R1_Resistors46-1k (-55.24mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors46 (Bounding Region = (111.26mm, 98.36mm, 112.76mm, 110.86mm) (InComponentClass('Resistors46')) And SMT Small Component R2_Resistors46-1k (-55.24mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors42 (Bounding Region = (121.42mm, 98.36mm, 122.92mm, 110.86mm) (InComponentClass('Resistors42'))
+   Violation between Room Definition: Between Room Resistors42 (Bounding Region = (121.42mm, 98.36mm, 122.92mm, 110.86mm) (InComponentClass('Resistors42')) And SMT Small Component R1_Resistors42-1k (-45.08mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors42 (Bounding Region = (121.42mm, 98.36mm, 122.92mm, 110.86mm) (InComponentClass('Resistors42')) And SMT Small Component R2_Resistors42-1k (-45.08mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors38 (Bounding Region = (98.56mm, 48.5mm, 100.06mm, 61mm) (InComponentClass('Resistors38'))
+   Violation between Room Definition: Between Room Resistors38 (Bounding Region = (98.56mm, 48.5mm, 100.06mm, 61mm) (InComponentClass('Resistors38')) And SMT Small Component R1_Resistors38-1k (-67.94mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors38 (Bounding Region = (98.56mm, 48.5mm, 100.06mm, 61mm) (InComponentClass('Resistors38')) And SMT Small Component R2_Resistors38-1k (-67.94mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors37 (Bounding Region = (101.1mm, 48.5mm, 102.6mm, 61mm) (InComponentClass('Resistors37'))
+   Violation between Room Definition: Between Room Resistors37 (Bounding Region = (101.1mm, 48.5mm, 102.6mm, 61mm) (InComponentClass('Resistors37')) And SMT Small Component R1_Resistors37-1k (-65.4mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors37 (Bounding Region = (101.1mm, 48.5mm, 102.6mm, 61mm) (InComponentClass('Resistors37')) And SMT Small Component R2_Resistors37-1k (-65.4mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors39 (Bounding Region = (96.02mm, 48.5mm, 97.52mm, 61mm) (InComponentClass('Resistors39'))
+   Violation between Room Definition: Between Room Resistors39 (Bounding Region = (96.02mm, 48.5mm, 97.52mm, 61mm) (InComponentClass('Resistors39')) And SMT Small Component R1_Resistors39-1k (-70.48mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors39 (Bounding Region = (96.02mm, 48.5mm, 97.52mm, 61mm) (InComponentClass('Resistors39')) And SMT Small Component R2_Resistors39-1k (-70.48mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors41 (Bounding Region = (123.96mm, 98.36mm, 125.46mm, 110.86mm) (InComponentClass('Resistors41'))
+   Violation between Room Definition: Between Room Resistors41 (Bounding Region = (123.96mm, 98.36mm, 125.46mm, 110.86mm) (InComponentClass('Resistors41')) And SMT Small Component R1_Resistors41-1k (-42.54mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors41 (Bounding Region = (123.96mm, 98.36mm, 125.46mm, 110.86mm) (InComponentClass('Resistors41')) And SMT Small Component R2_Resistors41-1k (-42.54mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors40 (Bounding Region = (126.5mm, 98.36mm, 128mm, 110.86mm) (InComponentClass('Resistors40'))
+   Violation between Room Definition: Between Room Resistors40 (Bounding Region = (126.5mm, 98.36mm, 128mm, 110.86mm) (InComponentClass('Resistors40')) And SMT Small Component R1_Resistors40-1k (-40mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors40 (Bounding Region = (126.5mm, 98.36mm, 128mm, 110.86mm) (InComponentClass('Resistors40')) And SMT Small Component R2_Resistors40-1k (-40mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors49 (Bounding Region = (103.64mm, 98.36mm, 105.14mm, 110.86mm) (InComponentClass('Resistors49'))
+   Violation between Room Definition: Between Room Resistors49 (Bounding Region = (103.64mm, 98.36mm, 105.14mm, 110.86mm) (InComponentClass('Resistors49')) And SMT Small Component R1_Resistors49-1k (-62.86mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors49 (Bounding Region = (103.64mm, 98.36mm, 105.14mm, 110.86mm) (InComponentClass('Resistors49')) And SMT Small Component R2_Resistors49-1k (-62.86mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors10 (Bounding Region = (48.661mm, 48.5mm, 50.161mm, 61mm) (InComponentClass('Resistors10'))
+   Violation between Room Definition: Between Room Resistors10 (Bounding Region = (48.661mm, 48.5mm, 50.161mm, 61mm) (InComponentClass('Resistors10')) And SMT Small Component R1_Resistors10-1k (-117.839mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors10 (Bounding Region = (48.661mm, 48.5mm, 50.161mm, 61mm) (InComponentClass('Resistors10')) And SMT Small Component R2_Resistors10-1k (-117.839mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors12 (Bounding Region = (43.533mm, 48.5mm, 45.033mm, 61mm) (InComponentClass('Resistors12'))
+   Violation between Room Definition: Between Room Resistors12 (Bounding Region = (43.533mm, 48.5mm, 45.033mm, 61mm) (InComponentClass('Resistors12')) And SMT Small Component R1_Resistors12-1k (-122.967mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors12 (Bounding Region = (43.533mm, 48.5mm, 45.033mm, 61mm) (InComponentClass('Resistors12')) And SMT Small Component R2_Resistors12-1k (-122.967mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors9 (Bounding Region = (51.201mm, 48.5mm, 52.701mm, 61mm) (InComponentClass('Resistors9'))
+   Violation between Room Definition: Between Room Resistors9 (Bounding Region = (51.201mm, 48.5mm, 52.701mm, 61mm) (InComponentClass('Resistors9')) And SMT Small Component R1_Resistors9-1k (-115.299mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors9 (Bounding Region = (51.201mm, 48.5mm, 52.701mm, 61mm) (InComponentClass('Resistors9')) And SMT Small Component R2_Resistors9-1k (-115.299mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors7 (Bounding Region = (56.281mm, 48.5mm, 57.781mm, 61mm) (InComponentClass('Resistors7'))
+   Violation between Room Definition: Between Room Resistors7 (Bounding Region = (56.281mm, 48.5mm, 57.781mm, 61mm) (InComponentClass('Resistors7')) And SMT Small Component R1_Resistors7-1k (-110.219mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors7 (Bounding Region = (56.281mm, 48.5mm, 57.781mm, 61mm) (InComponentClass('Resistors7')) And SMT Small Component R2_Resistors7-1k (-110.219mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors8 (Bounding Region = (53.741mm, 48.5mm, 55.241mm, 61mm) (InComponentClass('Resistors8'))
+   Violation between Room Definition: Between Room Resistors8 (Bounding Region = (53.741mm, 48.5mm, 55.241mm, 61mm) (InComponentClass('Resistors8')) And SMT Small Component R1_Resistors8-1k (-112.759mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors8 (Bounding Region = (53.741mm, 48.5mm, 55.241mm, 61mm) (InComponentClass('Resistors8')) And SMT Small Component R2_Resistors8-1k (-112.759mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors51 (Bounding Region = (98.56mm, 98.36mm, 100.06mm, 110.86mm) (InComponentClass('Resistors51'))
+   Violation between Room Definition: Between Room Resistors51 (Bounding Region = (98.56mm, 98.36mm, 100.06mm, 110.86mm) (InComponentClass('Resistors51')) And SMT Small Component R1_Resistors51-1k (-67.94mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors51 (Bounding Region = (98.56mm, 98.36mm, 100.06mm, 110.86mm) (InComponentClass('Resistors51')) And SMT Small Component R2_Resistors51-1k (-67.94mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors50 (Bounding Region = (101.1mm, 98.36mm, 102.6mm, 110.86mm) (InComponentClass('Resistors50'))
+   Violation between Room Definition: Between Room Resistors50 (Bounding Region = (101.1mm, 98.36mm, 102.6mm, 110.86mm) (InComponentClass('Resistors50')) And SMT Small Component R1_Resistors50-1k (-65.4mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors50 (Bounding Region = (101.1mm, 98.36mm, 102.6mm, 110.86mm) (InComponentClass('Resistors50')) And SMT Small Component R2_Resistors50-1k (-65.4mm,29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room Resistors1 (Bounding Region = (71.5mm, 48.5mm, 73mm, 61mm) (InComponentClass('Resistors1'))
+   Violation between Room Definition: Between Room Resistors1 (Bounding Region = (71.5mm, 48.5mm, 73mm, 61mm) (InComponentClass('Resistors1')) And SMT Small Component R1_Resistors1-1k (-95mm,-20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Resistors1 (Bounding Region = (71.5mm, 48.5mm, 73mm, 61mm) (InComponentClass('Resistors1')) And SMT Small Component R2_Resistors1-1k (-95mm,-29.25mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 182
+Waived Violations : 0
+Time Elapsed        : 00:00:01

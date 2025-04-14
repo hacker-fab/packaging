@@ -1,0 +1,34 @@
+Added Pin To Net: NetName=NetR1_Resistors1_1 Pin=C1_Decaps1-1
+Added Pin To Net: NetName=NetR1_Resistors31_1 Pin=C1_Decaps2-1
+Added Pin To Net: NetName=Pin3 Pin=C1_Decaps3-1
+Added Pin To Net: NetName=Pin4 Pin=C1_Decaps4-1
+Added Pin To Net: NetName=Pin5 Pin=C1_Decaps5-1
+Added Pin To Net: NetName=Pin6 Pin=C1_Decaps6-1
+Added Pin To Net: NetName=Pin7 Pin=C1_Decaps7-1
+Added Pin To Net: NetName=Pin8 Pin=C1_Decaps8-1
+Added Pin To Net: NetName=Pin9 Pin=C1_Decaps9-1
+Added Pin To Net: NetName=Pin10 Pin=C1_Decaps10-1
+Added Pin To Net: NetName=Pin11 Pin=C1_Decaps11-1
+Added Pin To Net: NetName=Pin12 Pin=C1_Decaps12-1
+Added Pin To Net: NetName=Pin13 Pin=C1_Decaps13-1
+Added Pin To Net: NetName=Pin14 Pin=C1_Decaps14-1
+Added Pin To Net: NetName=Pin15 Pin=C1_Decaps15-1
+Added Pin To Net: NetName=Pin16 Pin=C1_Decaps16-1
+Added Pin To Net: NetName=Pin17 Pin=C1_Decaps17-1
+Added Pin To Net: NetName=Pin18 Pin=C1_Decaps18-1
+Added Pin To Net: NetName=Pin19 Pin=C1_Decaps19-1
+Added Pin To Net: NetName=Pin20 Pin=C1_Decaps20-1
+Added Pin To Net: NetName=Pin21 Pin=C1_Decaps21-1
+Added Pin To Net: NetName=Pin22 Pin=C1_Decaps22-1
+Added Pin To Net: NetName=Pin23 Pin=C1_Decaps23-1
+Added Pin To Net: NetName=Pin24 Pin=C1_Decaps24-1
+Added Pin To Net: NetName=Pin25 Pin=C1_Decaps25-1
+Added Pin To Net: NetName=Pin26 Pin=C1_Decaps26-1
+Added Pin To Net: NetName=Pin27 Pin=C1_Decaps27-1
+Added Pin To Net: NetName=Pin28 Pin=C1_Decaps28-1
+Added Pin To Net: NetName=Pin29 Pin=C1_Decaps29-1
+Added Pin To Net: NetName=Pin30 Pin=C1_Decaps30-1
+Added Pin To Net: NetName=NetR1_Resistors1_1 Pin=J1-1
+Added Pin To Net: NetName=NetR1_Resistors31_1 Pin=J1-3
+Change Net Name : Old Net Name=NetR1_Resistors1_1 New Net Name=Pin1
+Change Net Name : Old Net Name=NetR1_Resistors31_1 New Net Name=Pin2

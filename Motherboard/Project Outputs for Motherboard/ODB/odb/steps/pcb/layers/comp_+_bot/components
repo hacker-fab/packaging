@@ -1,0 +1,352 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+
+#
+#Component attribute text strings
+#
+
+# CMP 0
+CMP 0 -14.50000656 -17.25000106 180 N C1_Decaps26 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30001258 -17.24998328 90 N 56 2 1
+TOP 1 -13.70001578 -17.24998328 90 N 79 72 2
+#
+# CMP 1
+CMP 0 -14.50000656 -13.8958066 180 N C1_Decaps25 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30001258 -13.89582438 90 N 57 2 1
+TOP 1 -13.70001578 -13.89582438 90 N 79 70 2
+#
+# CMP 2
+CMP 0 -14.5000091 -10.54168072 180 N C1_Decaps24 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.3000075 -10.54166548 90 N 55 2 1
+TOP 1 -13.7000107 -10.54166548 90 N 79 73 2
+#
+# CMP 3
+CMP 0 -14.5000091 -7.18748626 180 N C1_Decaps23 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.3000075 -7.18750658 90 N 58 2 1
+TOP 1 -13.7000107 -7.18750658 90 N 79 74 2
+#
+# CMP 4
+CMP 0 -14.5000091 -4.0833421 180 N C1_Decaps22 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.3000075 -4.08334718 90 N 59 2 1
+TOP 1 -13.7000107 -4.08334718 90 N 79 75 2
+#
+# CMP 5
+CMP 0 -14.49999894 -1.00000054 180 N C1_Decaps21 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29999734 -0.99999038 90 N 60 2 1
+TOP 1 -13.70000054 -0.99999038 90 N 79 76 2
+#
+# CMP 6
+CMP 0 -14.5000091 3.87494526 180 N C1_Decaps20 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.3000075 3.87497066 90 N 61 2 1
+TOP 1 -13.7000107 3.87497066 90 N 79 77 2
+#
+# CMP 7
+CMP 0 -14.5000091 7.22913972 180 N C1_Decaps19 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.3000075 7.22912956 90 N 62 2 1
+TOP 1 -13.7000107 7.22912956 90 N 79 61 2
+#
+# CMP 8
+CMP 0 -14.5000091 10.58328338 180 N C1_Decaps18 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.3000075 10.58328846 90 N 63 2 1
+TOP 1 -13.7000107 10.58328846 90 N 79 59 2
+#
+# CMP 9
+CMP 0 -14.5000091 13.93742704 180 N C1_Decaps17 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.3000075 13.93744736 90 N 64 2 1
+TOP 1 -13.7000107 13.93744736 90 N 79 57 2
+#
+# CMP 10
+CMP 0 -14.5000091 17.041622 180 N C1_Decaps16 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.3000075 17.04160676 90 N 65 2 1
+TOP 1 -13.7000107 17.04160676 90 N 79 53 2
+#
+# CMP 11
+CMP 0 -14.49999894 18.7500006 180 N C1_Decaps15 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29999734 18.74999552 90 N 66 2 1
+TOP 1 -13.70000054 18.74999552 90 N 79 55 2
+#
+# CMP 12
+CMP 0 -14.49999894 20.25000014 180 N C1_Decaps14 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29999734 20.24997982 90 N 67 2 1
+TOP 1 -13.70000054 20.24997982 90 N 79 54 2
+#
+# CMP 13
+CMP 0 -14.50000656 15.49995122 180 N C1_Decaps13 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30000496 15.49996646 90 N 68 2 1
+TOP 1 -13.70000816 15.49996646 90 N 79 56 2
+#
+# CMP 14
+CMP 0 -14.50000656 12.39580452 180 N C1_Decaps12 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30000496 12.39580452 90 N 69 2 1
+TOP 1 -13.70000816 12.39580452 90 N 79 58 2
+#
+# CMP 15
+CMP 0 -14.50000656 9.04165832 180 N C1_Decaps11 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30000496 9.04164308 90 N 70 2 1
+TOP 1 -13.70000816 9.04164308 90 N 79 60 2
+#
+# CMP 16
+CMP 0 -14.50000656 5.68746132 180 N C1_Decaps10 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30000496 5.68748164 90 N 71 2 1
+TOP 1 -13.70000816 5.68748164 90 N 79 62 2
+#
+# CMP 17
+CMP 0 -14.50000656 2.33331512 180 N C1_Decaps9 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30000496 2.3333202 90 N 72 2 1
+TOP 1 -13.70000816 2.3333202 90 N 79 69 2
+#
+# CMP 18
+CMP 0 -14.50000656 0.47916846 180 N C1_Decaps8 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30000496 0.4791583 90 N 73 2 1
+TOP 1 -13.70000816 0.4791583 90 N 79 67 2
+#
+# CMP 19
+CMP 0 -14.50000656 -2.62502904 180 N C1_Decaps7 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.30000496 -2.62500364 90 N 74 2 1
+TOP 1 -13.70000816 -2.62500364 90 N 79 63 2
+#
+# CMP 20
+CMP 0 -14.50001418 -5.72916558 180 N C1_Decaps6 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29999988 -5.72916558 90 N 75 2 1
+TOP 1 -13.70000308 -5.72916558 90 N 79 65 2
+#
+# CMP 21
+CMP 0 -14.50001418 -9.08331178 180 N C1_Decaps5 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29999988 -9.08332702 90 N 76 2 1
+TOP 1 -13.70000308 -9.08332702 90 N 79 66 2
+#
+# CMP 22
+CMP 0 -14.50001418 -12.43750878 180 N C1_Decaps4 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29999988 -12.43748846 90 N 77 2 1
+TOP 1 -13.70000308 -12.43748846 90 N 79 68 2
+#
+# CMP 23
+CMP 0 -14.50001418 -15.79165498 180 N C1_Decaps3 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29999988 -15.7916499 90 N 78 2 1
+TOP 1 -13.70000308 -15.7916499 90 N 79 64 2
+#
+# CMP 24
+CMP 0 -14.49999894 -19.2499996 180 N C1_Decaps2 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29998464 -19.25000976 90 N 1 2 1
+TOP 1 -13.69998784 -19.25000976 90 N 79 71 2
+#
+# CMP 25
+CMP 0 -14.49999894 -20.74999914 180 N C1_Decaps1 0.1_uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'C0603C104K5RAC7411'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/c0603c104k5rac7411/kemet-corporation?region=nac'
+PRP Datasheet_Link 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Height '0.87mm'
+PRP Manufacturer_Name 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RAC7411'
+PRP Mouser_Part_Number '80-C0603C104K5R7411'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K5RAC7411?qs=JxH5GSBHSCRTO9iUpWbJFg%3D%3D'
+TOP 0 -15.29998464 -20.74997374 90 N 2 2 1
+TOP 1 -13.69998784 -20.74997374 90 N 79 78 2
+#

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=Pin1 Pin=C1_Decaps1-1
+Removed Pin From Net: NetName=Pin2 Pin=C1_Decaps2-1
+Removed Pin From Net: NetName=Pin3 Pin=C1_Decaps3-1
+Removed Pin From Net: NetName=Pin4 Pin=C1_Decaps4-1
+Removed Pin From Net: NetName=Pin5 Pin=C1_Decaps5-1
+Removed Pin From Net: NetName=Pin6 Pin=C1_Decaps6-1
+Removed Pin From Net: NetName=Pin7 Pin=C1_Decaps7-1
+Removed Pin From Net: NetName=Pin8 Pin=C1_Decaps8-1
+Removed Pin From Net: NetName=Pin9 Pin=C1_Decaps9-1
+Removed Pin From Net: NetName=Pin10 Pin=C1_Decaps10-1
+Removed Pin From Net: NetName=Pin11 Pin=C1_Decaps11-1
+Removed Pin From Net: NetName=Pin12 Pin=C1_Decaps12-1
+Removed Pin From Net: NetName=Pin13 Pin=C1_Decaps13-1
+Removed Pin From Net: NetName=Pin14 Pin=C1_Decaps14-1
+Removed Pin From Net: NetName=Pin15 Pin=C1_Decaps15-1
+Removed Pin From Net: NetName=Pin16 Pin=C1_Decaps16-1
+Removed Pin From Net: NetName=Pin17 Pin=C1_Decaps17-1
+Removed Pin From Net: NetName=Pin18 Pin=C1_Decaps18-1
+Removed Pin From Net: NetName=Pin19 Pin=C1_Decaps19-1
+Removed Pin From Net: NetName=Pin20 Pin=C1_Decaps20-1
+Removed Pin From Net: NetName=Pin21 Pin=C1_Decaps21-1
+Removed Pin From Net: NetName=Pin22 Pin=C1_Decaps22-1
+Removed Pin From Net: NetName=Pin23 Pin=C1_Decaps23-1
+Removed Pin From Net: NetName=Pin24 Pin=C1_Decaps24-1
+Removed Pin From Net: NetName=Pin25 Pin=C1_Decaps25-1
+Removed Pin From Net: NetName=Pin26 Pin=C1_Decaps26-1
+Removed Pin From Net: NetName=Pin27 Pin=C1_Decaps27-1
+Removed Pin From Net: NetName=Pin28 Pin=C1_Decaps28-1
+Removed Pin From Net: NetName=Pin29 Pin=C1_Decaps29-1
+Removed Pin From Net: NetName=Pin30 Pin=C1_Decaps30-1
+Add Net: Net with name "Pin1" already exists
+Add Net: Net with name "Pin2" already exists
+Add Net: Net with name "Pin3" already exists
+Add Net: Net with name "Pin4" already exists
+Add Net: Net with name "Pin5" already exists
+Add Net: Net with name "Pin6" already exists
+Add Net: Net with name "Pin7" already exists
+Add Net: Net with name "Pin8" already exists
+Add Net: Net with name "Pin9" already exists
+Add Net: Net with name "Pin10" already exists
+Add Net: Net with name "Pin11" already exists
+Add Net: Net with name "Pin12" already exists
+Add Net: Net with name "Pin13" already exists
+Add Net: Net with name "Pin14" already exists
+Add Net: Net with name "Pin15" already exists
+Add Net: Net with name "Pin16" already exists
+Add Net: Net with name "Pin17" already exists
+Add Net: Net with name "Pin18" already exists
+Add Net: Net with name "Pin19" already exists
+Add Net: Net with name "Pin20" already exists
+Add Net: Net with name "Pin21" already exists
+Add Net: Net with name "Pin22" already exists
+Add Net: Net with name "Pin23" already exists
+Add Net: Net with name "Pin24" already exists
+Add Net: Net with name "Pin25" already exists
+Add Net: Net with name "Pin26" already exists
+Add Net: Net with name "Pin27" already exists
+Add Net: Net with name "Pin28" already exists
+Add Net: Net with name "Pin29" already exists
+Add Net: Net with name "Pin30" already exists

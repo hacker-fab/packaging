@@ -1,0 +1,120 @@
+Added Pin To Net: NetName=Analyzer_Pins1_Package1 Pin=R1_Resistors1-1
+Added Net: Name=Analyzer_Pins1_Package1
+Added Pin To Net: NetName=Analyzer_Pins1_Package2 Pin=R1_Resistors31-1
+Added Net: Name=Analyzer_Pins1_Package2
+Added Pin To Net: NetName=Analyzer_Pins2_Package1 Pin=R1_Resistors2-1
+Added Net: Name=Analyzer_Pins2_Package1
+Added Pin To Net: NetName=Analyzer_Pins2_Package2 Pin=R1_Resistors32-1
+Added Net: Name=Analyzer_Pins2_Package2
+Added Pin To Net: NetName=Analyzer_Pins3_Package1 Pin=R1_Resistors3-1
+Added Net: Name=Analyzer_Pins3_Package1
+Added Pin To Net: NetName=Analyzer_Pins3_Package2 Pin=R1_Resistors33-1
+Added Net: Name=Analyzer_Pins3_Package2
+Added Pin To Net: NetName=Analyzer_Pins4_Package1 Pin=R1_Resistors4-1
+Added Net: Name=Analyzer_Pins4_Package1
+Added Pin To Net: NetName=Analyzer_Pins4_Package2 Pin=R1_Resistors34-1
+Added Net: Name=Analyzer_Pins4_Package2
+Added Pin To Net: NetName=Analyzer_Pins5_Package1 Pin=R1_Resistors5-1
+Added Net: Name=Analyzer_Pins5_Package1
+Added Pin To Net: NetName=Analyzer_Pins5_Package2 Pin=R1_Resistors35-1
+Added Net: Name=Analyzer_Pins5_Package2
+Added Pin To Net: NetName=Analyzer_Pins6_Package1 Pin=R1_Resistors6-1
+Added Net: Name=Analyzer_Pins6_Package1
+Added Pin To Net: NetName=Analyzer_Pins6_Package2 Pin=R1_Resistors36-1
+Added Net: Name=Analyzer_Pins6_Package2
+Added Pin To Net: NetName=Analyzer_Pins7_Package1 Pin=R1_Resistors7-1
+Added Net: Name=Analyzer_Pins7_Package1
+Added Pin To Net: NetName=Analyzer_Pins7_Package2 Pin=R1_Resistors37-1
+Added Net: Name=Analyzer_Pins7_Package2
+Added Pin To Net: NetName=Analyzer_Pins8_Package1 Pin=R1_Resistors8-1
+Added Net: Name=Analyzer_Pins8_Package1
+Added Pin To Net: NetName=Analyzer_Pins8_Package2 Pin=R1_Resistors38-1
+Added Net: Name=Analyzer_Pins8_Package2
+Added Pin To Net: NetName=Analyzer_Pins9_Package1 Pin=R1_Resistors9-1
+Added Net: Name=Analyzer_Pins9_Package1
+Added Pin To Net: NetName=Analyzer_Pins9_Package2 Pin=R1_Resistors39-1
+Added Net: Name=Analyzer_Pins9_Package2
+Added Pin To Net: NetName=Analyzer_Pins10_Package1 Pin=R1_Resistors10-1
+Added Net: Name=Analyzer_Pins10_Package1
+Added Pin To Net: NetName=Analyzer_Pins10_Package2 Pin=R1_Resistors40-1
+Added Net: Name=Analyzer_Pins10_Package2
+Added Pin To Net: NetName=Analyzer_Pins11_Package1 Pin=R1_Resistors11-1
+Added Net: Name=Analyzer_Pins11_Package1
+Added Pin To Net: NetName=Analyzer_Pins11_Package2 Pin=R1_Resistors41-1
+Added Net: Name=Analyzer_Pins11_Package2
+Added Pin To Net: NetName=Analyzer_Pins12_Package1 Pin=R1_Resistors12-1
+Added Net: Name=Analyzer_Pins12_Package1
+Added Pin To Net: NetName=Analyzer_Pins12_Package2 Pin=R1_Resistors42-1
+Added Net: Name=Analyzer_Pins12_Package2
+Added Pin To Net: NetName=Analyzer_Pins13_Package1 Pin=R1_Resistors13-1
+Added Net: Name=Analyzer_Pins13_Package1
+Added Pin To Net: NetName=Analyzer_Pins13_Package2 Pin=R1_Resistors43-1
+Added Net: Name=Analyzer_Pins13_Package2
+Added Pin To Net: NetName=Analyzer_Pins14_Package1 Pin=R1_Resistors14-1
+Added Net: Name=Analyzer_Pins14_Package1
+Added Pin To Net: NetName=Analyzer_Pins14_Package2 Pin=R1_Resistors44-1
+Added Net: Name=Analyzer_Pins14_Package2
+Added Pin To Net: NetName=Analyzer_Pins15_Package1 Pin=R1_Resistors15-1
+Added Net: Name=Analyzer_Pins15_Package1
+Added Pin To Net: NetName=Analyzer_Pins15_Package2 Pin=R1_Resistors45-1
+Added Net: Name=Analyzer_Pins15_Package2
+Added Pin To Net: NetName=Analyzer_Pins16_Package1 Pin=R1_Resistors16-1
+Added Net: Name=Analyzer_Pins16_Package1
+Added Pin To Net: NetName=Analyzer_Pins16_Package2 Pin=R1_Resistors46-1
+Added Net: Name=Analyzer_Pins16_Package2
+Added Pin To Net: NetName=Analyzer_Pins17_Package1 Pin=R1_Resistors17-1
+Added Net: Name=Analyzer_Pins17_Package1
+Added Pin To Net: NetName=Analyzer_Pins17_Package2 Pin=R1_Resistors47-1
+Added Net: Name=Analyzer_Pins17_Package2
+Added Pin To Net: NetName=Analyzer_Pins18_Package1 Pin=R1_Resistors18-1
+Added Net: Name=Analyzer_Pins18_Package1
+Added Pin To Net: NetName=Analyzer_Pins18_Package2 Pin=R1_Resistors48-1
+Added Net: Name=Analyzer_Pins18_Package2
+Added Pin To Net: NetName=Analyzer_Pins19_Package1 Pin=R1_Resistors19-1
+Added Net: Name=Analyzer_Pins19_Package1
+Added Pin To Net: NetName=Analyzer_Pins19_Package2 Pin=R1_Resistors49-1
+Added Net: Name=Analyzer_Pins19_Package2
+Added Pin To Net: NetName=Analyzer_Pins20_Package1 Pin=R1_Resistors20-1
+Added Net: Name=Analyzer_Pins20_Package1
+Added Pin To Net: NetName=Analyzer_Pins20_Package2 Pin=R1_Resistors50-1
+Added Net: Name=Analyzer_Pins20_Package2
+Added Pin To Net: NetName=Analyzer_Pins21_Package1 Pin=R1_Resistors21-1
+Added Net: Name=Analyzer_Pins21_Package1
+Added Pin To Net: NetName=Analyzer_Pins21_Package2 Pin=R1_Resistors51-1
+Added Net: Name=Analyzer_Pins21_Package2
+Added Pin To Net: NetName=Analyzer_Pins22_Package1 Pin=R1_Resistors22-1
+Added Net: Name=Analyzer_Pins22_Package1
+Added Pin To Net: NetName=Analyzer_Pins22_Package2 Pin=R1_Resistors52-1
+Added Net: Name=Analyzer_Pins22_Package2
+Added Pin To Net: NetName=Analyzer_Pins23_Package1 Pin=R1_Resistors23-1
+Added Net: Name=Analyzer_Pins23_Package1
+Added Pin To Net: NetName=Analyzer_Pins23_Package2 Pin=R1_Resistors53-1
+Added Net: Name=Analyzer_Pins23_Package2
+Added Pin To Net: NetName=Analyzer_Pins24_Package1 Pin=R1_Resistors24-1
+Added Net: Name=Analyzer_Pins24_Package1
+Added Pin To Net: NetName=Analyzer_Pins24_Package2 Pin=R1_Resistors54-1
+Added Net: Name=Analyzer_Pins24_Package2
+Added Pin To Net: NetName=Analyzer_Pins25_Package1 Pin=R1_Resistors25-1
+Added Net: Name=Analyzer_Pins25_Package1
+Added Pin To Net: NetName=Analyzer_Pins25_Package2 Pin=R1_Resistors55-1
+Added Net: Name=Analyzer_Pins25_Package2
+Added Pin To Net: NetName=Analyzer_Pins26_Package1 Pin=R1_Resistors26-1
+Added Net: Name=Analyzer_Pins26_Package1
+Added Pin To Net: NetName=Analyzer_Pins26_Package2 Pin=R1_Resistors56-1
+Added Net: Name=Analyzer_Pins26_Package2
+Added Pin To Net: NetName=Analyzer_Pins27_Package1 Pin=R1_Resistors27-1
+Added Net: Name=Analyzer_Pins27_Package1
+Added Pin To Net: NetName=Analyzer_Pins27_Package2 Pin=R1_Resistors57-1
+Added Net: Name=Analyzer_Pins27_Package2
+Added Pin To Net: NetName=Analyzer_Pins28_Package1 Pin=R1_Resistors28-1
+Added Net: Name=Analyzer_Pins28_Package1
+Added Pin To Net: NetName=Analyzer_Pins28_Package2 Pin=R1_Resistors58-1
+Added Net: Name=Analyzer_Pins28_Package2
+Added Pin To Net: NetName=Analyzer_Pins29_Package1 Pin=R1_Resistors29-1
+Added Net: Name=Analyzer_Pins29_Package1
+Added Pin To Net: NetName=Analyzer_Pins29_Package2 Pin=R1_Resistors59-1
+Added Net: Name=Analyzer_Pins29_Package2
+Added Pin To Net: NetName=Analyzer_Pins30_Package1 Pin=R1_Resistors30-1
+Added Net: Name=Analyzer_Pins30_Package1
+Added Pin To Net: NetName=Analyzer_Pins30_Package2 Pin=R1_Resistors60-1
+Added Net: Name=Analyzer_Pins30_Package2

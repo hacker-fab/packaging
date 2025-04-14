@@ -1,0 +1,182 @@
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors1-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors2-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors3-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors4-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors5-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors6-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors7-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors8-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors9-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors10-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors11-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors12-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors13-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors14-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors15-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors16-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors17-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors18-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors19-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors20-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors21-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors22-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors23-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors24-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors25-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors26-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors27-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors28-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors29-1
+Removed Pin From Net: NetName=Pin1 Pin=R1_Resistors30-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors31-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors32-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors33-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors34-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors35-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors36-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors37-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors38-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors39-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors40-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors41-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors42-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors43-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors44-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors45-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors46-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors47-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors48-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors49-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors50-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors51-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors52-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors53-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors54-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors55-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors56-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors57-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors58-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors59-1
+Removed Pin From Net: NetName=Pin2 Pin=R1_Resistors60-1
+Added Pin To Net: NetName=NetR1_Resistors1_1 Pin=R1_Resistors1-1
+Added Net: Name=NetR1_Resistors1_1
+Added Pin To Net: NetName=NetR1_Resistors2_1 Pin=R1_Resistors2-1
+Added Net: Name=NetR1_Resistors2_1
+Added Pin To Net: NetName=NetR1_Resistors3_1 Pin=R1_Resistors3-1
+Added Net: Name=NetR1_Resistors3_1
+Added Pin To Net: NetName=NetR1_Resistors4_1 Pin=R1_Resistors4-1
+Added Net: Name=NetR1_Resistors4_1
+Added Pin To Net: NetName=NetR1_Resistors5_1 Pin=R1_Resistors5-1
+Added Net: Name=NetR1_Resistors5_1
+Added Pin To Net: NetName=NetR1_Resistors6_1 Pin=R1_Resistors6-1
+Added Net: Name=NetR1_Resistors6_1
+Added Pin To Net: NetName=NetR1_Resistors7_1 Pin=R1_Resistors7-1
+Added Net: Name=NetR1_Resistors7_1
+Added Pin To Net: NetName=NetR1_Resistors8_1 Pin=R1_Resistors8-1
+Added Net: Name=NetR1_Resistors8_1
+Added Pin To Net: NetName=NetR1_Resistors9_1 Pin=R1_Resistors9-1
+Added Net: Name=NetR1_Resistors9_1
+Added Pin To Net: NetName=NetR1_Resistors10_1 Pin=R1_Resistors10-1
+Added Net: Name=NetR1_Resistors10_1
+Added Pin To Net: NetName=NetR1_Resistors11_1 Pin=R1_Resistors11-1
+Added Net: Name=NetR1_Resistors11_1
+Added Pin To Net: NetName=NetR1_Resistors12_1 Pin=R1_Resistors12-1
+Added Net: Name=NetR1_Resistors12_1
+Added Pin To Net: NetName=NetR1_Resistors13_1 Pin=R1_Resistors13-1
+Added Net: Name=NetR1_Resistors13_1
+Added Pin To Net: NetName=NetR1_Resistors14_1 Pin=R1_Resistors14-1
+Added Net: Name=NetR1_Resistors14_1
+Added Pin To Net: NetName=NetR1_Resistors15_1 Pin=R1_Resistors15-1
+Added Net: Name=NetR1_Resistors15_1
+Added Pin To Net: NetName=NetR1_Resistors16_1 Pin=R1_Resistors16-1
+Added Net: Name=NetR1_Resistors16_1
+Added Pin To Net: NetName=NetR1_Resistors17_1 Pin=R1_Resistors17-1
+Added Net: Name=NetR1_Resistors17_1
+Added Pin To Net: NetName=NetR1_Resistors18_1 Pin=R1_Resistors18-1
+Added Net: Name=NetR1_Resistors18_1
+Added Pin To Net: NetName=NetR1_Resistors19_1 Pin=R1_Resistors19-1
+Added Net: Name=NetR1_Resistors19_1
+Added Pin To Net: NetName=NetR1_Resistors20_1 Pin=R1_Resistors20-1
+Added Net: Name=NetR1_Resistors20_1
+Added Pin To Net: NetName=NetR1_Resistors21_1 Pin=R1_Resistors21-1
+Added Net: Name=NetR1_Resistors21_1
+Added Pin To Net: NetName=NetR1_Resistors22_1 Pin=R1_Resistors22-1
+Added Net: Name=NetR1_Resistors22_1
+Added Pin To Net: NetName=NetR1_Resistors23_1 Pin=R1_Resistors23-1
+Added Net: Name=NetR1_Resistors23_1
+Added Pin To Net: NetName=NetR1_Resistors24_1 Pin=R1_Resistors24-1
+Added Net: Name=NetR1_Resistors24_1
+Added Pin To Net: NetName=NetR1_Resistors25_1 Pin=R1_Resistors25-1
+Added Net: Name=NetR1_Resistors25_1
+Added Pin To Net: NetName=NetR1_Resistors26_1 Pin=R1_Resistors26-1
+Added Net: Name=NetR1_Resistors26_1
+Added Pin To Net: NetName=NetR1_Resistors27_1 Pin=R1_Resistors27-1
+Added Net: Name=NetR1_Resistors27_1
+Added Pin To Net: NetName=NetR1_Resistors28_1 Pin=R1_Resistors28-1
+Added Net: Name=NetR1_Resistors28_1
+Added Pin To Net: NetName=NetR1_Resistors29_1 Pin=R1_Resistors29-1
+Added Net: Name=NetR1_Resistors29_1
+Added Pin To Net: NetName=NetR1_Resistors30_1 Pin=R1_Resistors30-1
+Added Net: Name=NetR1_Resistors30_1
+Added Pin To Net: NetName=NetR1_Resistors31_1 Pin=R1_Resistors31-1
+Added Net: Name=NetR1_Resistors31_1
+Added Pin To Net: NetName=NetR1_Resistors32_1 Pin=R1_Resistors32-1
+Added Net: Name=NetR1_Resistors32_1
+Added Pin To Net: NetName=NetR1_Resistors33_1 Pin=R1_Resistors33-1
+Added Net: Name=NetR1_Resistors33_1
+Added Pin To Net: NetName=NetR1_Resistors34_1 Pin=R1_Resistors34-1
+Added Net: Name=NetR1_Resistors34_1
+Added Pin To Net: NetName=NetR1_Resistors35_1 Pin=R1_Resistors35-1
+Added Net: Name=NetR1_Resistors35_1
+Added Pin To Net: NetName=NetR1_Resistors36_1 Pin=R1_Resistors36-1
+Added Net: Name=NetR1_Resistors36_1
+Added Pin To Net: NetName=NetR1_Resistors37_1 Pin=R1_Resistors37-1
+Added Net: Name=NetR1_Resistors37_1
+Added Pin To Net: NetName=NetR1_Resistors38_1 Pin=R1_Resistors38-1
+Added Net: Name=NetR1_Resistors38_1
+Added Pin To Net: NetName=NetR1_Resistors39_1 Pin=R1_Resistors39-1
+Added Net: Name=NetR1_Resistors39_1
+Added Pin To Net: NetName=NetR1_Resistors40_1 Pin=R1_Resistors40-1
+Added Net: Name=NetR1_Resistors40_1
+Added Pin To Net: NetName=NetR1_Resistors41_1 Pin=R1_Resistors41-1
+Added Net: Name=NetR1_Resistors41_1
+Added Pin To Net: NetName=NetR1_Resistors42_1 Pin=R1_Resistors42-1
+Added Net: Name=NetR1_Resistors42_1
+Added Pin To Net: NetName=NetR1_Resistors43_1 Pin=R1_Resistors43-1
+Added Net: Name=NetR1_Resistors43_1
+Added Pin To Net: NetName=NetR1_Resistors44_1 Pin=R1_Resistors44-1
+Added Net: Name=NetR1_Resistors44_1
+Added Pin To Net: NetName=NetR1_Resistors45_1 Pin=R1_Resistors45-1
+Added Net: Name=NetR1_Resistors45_1
+Added Pin To Net: NetName=NetR1_Resistors46_1 Pin=R1_Resistors46-1
+Added Net: Name=NetR1_Resistors46_1
+Added Pin To Net: NetName=NetR1_Resistors47_1 Pin=R1_Resistors47-1
+Added Net: Name=NetR1_Resistors47_1
+Added Pin To Net: NetName=NetR1_Resistors48_1 Pin=R1_Resistors48-1
+Added Net: Name=NetR1_Resistors48_1
+Added Pin To Net: NetName=NetR1_Resistors49_1 Pin=R1_Resistors49-1
+Added Net: Name=NetR1_Resistors49_1
+Added Pin To Net: NetName=NetR1_Resistors50_1 Pin=R1_Resistors50-1
+Added Net: Name=NetR1_Resistors50_1
+Added Pin To Net: NetName=NetR1_Resistors51_1 Pin=R1_Resistors51-1
+Added Net: Name=NetR1_Resistors51_1
+Added Pin To Net: NetName=NetR1_Resistors52_1 Pin=R1_Resistors52-1
+Added Net: Name=NetR1_Resistors52_1
+Added Pin To Net: NetName=NetR1_Resistors53_1 Pin=R1_Resistors53-1
+Added Net: Name=NetR1_Resistors53_1
+Added Pin To Net: NetName=NetR1_Resistors54_1 Pin=R1_Resistors54-1
+Added Net: Name=NetR1_Resistors54_1
+Added Pin To Net: NetName=NetR1_Resistors55_1 Pin=R1_Resistors55-1
+Added Net: Name=NetR1_Resistors55_1
+Added Pin To Net: NetName=NetR1_Resistors56_1 Pin=R1_Resistors56-1
+Added Net: Name=NetR1_Resistors56_1
+Added Pin To Net: NetName=NetR1_Resistors57_1 Pin=R1_Resistors57-1
+Added Net: Name=NetR1_Resistors57_1
+Added Pin To Net: NetName=NetR1_Resistors58_1 Pin=R1_Resistors58-1
+Added Net: Name=NetR1_Resistors58_1
+Added Pin To Net: NetName=NetR1_Resistors59_1 Pin=R1_Resistors59-1
+Added Net: Name=NetR1_Resistors59_1
+Added Pin To Net: NetName=NetR1_Resistors60_1 Pin=R1_Resistors60-1
+Added Net: Name=NetR1_Resistors60_1
+Added Member To Class: ClassName=Pin[1..30] Member=Element[0]: Pin
+Added Member To Class: ClassName=Pin[1..30] Member=Element[1]: Pin

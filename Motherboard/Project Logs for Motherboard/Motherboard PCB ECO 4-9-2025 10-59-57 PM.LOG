@@ -1,0 +1,941 @@
+Added Component: Designator=J2_Package1(HDRV15W64P0X254_1X15_3810X249X886P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph1-15-ua/adam-tech?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.865mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "737-PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Adam-Tech/PH1-15-UA?qs=HoCaDK9Nz5dUS47ZXPBTBg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2_Package2(HDRV15W64P0X254_1X15_3810X249X886P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph1-15-ua/adam-tech?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.865mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "737-PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Adam-Tech/PH1-15-UA?qs=HoCaDK9Nz5dUS47ZXPBTBg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3_Package1(HDRV15W64P0X254_1X15_3810X249X886P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph1-15-ua/adam-tech?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.865mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "737-PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Adam-Tech/PH1-15-UA?qs=HoCaDK9Nz5dUS47ZXPBTBg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3_Package2(HDRV15W64P0X254_1X15_3810X249X886P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph1-15-ua/adam-tech?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.865mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "737-PH1-15-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Adam-Tech/PH1-15-UA?qs=HoCaDK9Nz5dUS47ZXPBTBg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors31(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors32(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors33(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors34(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors35(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors36(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors37(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors38(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors39(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors40(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors41(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors42(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors43(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors44(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors45(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors46(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors47(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors48(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors49(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors50(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors51(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors52(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors53(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors54(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors55(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors56(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors57(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors58(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors59(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Resistors60(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors31(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors32(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors33(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors34(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors35(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors36(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors37(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors38(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors39(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors40(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors41(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors42(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors43(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors44(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors45(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors46(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors47(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors48(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors49(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors50(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors51(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors52(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors53(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors54(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors55(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors56(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors57(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors58(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors59(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Resistors60(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0603ft1k00/stackpole-electronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0603FT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0603FT1K00?qs=FESYatJ8odI%252BYiPlprc1Pg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R2_Resistors31-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors32-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors33-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors34-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors35-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors36-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors37-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors38-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors39-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors40-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors41-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors42-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors43-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors44-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors45-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors46-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors47-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors48-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors49-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors50-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors51-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors52-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors53-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors54-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors55-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors56-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors57-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors58-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors59-2
+Added Pin To Net: NetName=GND Pin=R2_Resistors60-2
+Change Net Name : Old Net Name=Analyzer_Pins New Net Name=Analyzer_Pins_Package1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors31-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors32-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors33-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors34-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors35-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors36-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors37-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors38-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors39-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors40-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors41-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors42-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors43-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors44-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors45-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors46-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors47-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors48-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors49-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors50-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors51-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors52-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors53-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors54-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors55-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors56-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors57-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors58-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors59-1
+Added Pin To Net: NetName=Analyzer_Pins_Package2 Pin=R1_Resistors60-1
+Added Net: Name=Analyzer_Pins_Package2
+Added Pin To Net: NetName=Package1_Package1 Pin=J2_Package1-1
+Added Pin To Net: NetName=Package1_Package1 Pin=R1_Resistors1-2
+Added Pin To Net: NetName=Package1_Package1 Pin=R2_Resistors1-1
+Added Net: Name=Package1_Package1
+Added Pin To Net: NetName=Package1_Package2 Pin=J2_Package2-1
+Added Pin To Net: NetName=Package1_Package2 Pin=R1_Resistors31-2
+Added Pin To Net: NetName=Package1_Package2 Pin=R2_Resistors31-1
+Added Net: Name=Package1_Package2
+Added Pin To Net: NetName=Package2_Package1 Pin=J2_Package1-2
+Added Pin To Net: NetName=Package2_Package1 Pin=R1_Resistors2-2
+Added Pin To Net: NetName=Package2_Package1 Pin=R2_Resistors2-1
+Added Net: Name=Package2_Package1
+Added Pin To Net: NetName=Package2_Package2 Pin=J2_Package2-2
+Added Pin To Net: NetName=Package2_Package2 Pin=R1_Resistors32-2
+Added Pin To Net: NetName=Package2_Package2 Pin=R2_Resistors32-1
+Added Net: Name=Package2_Package2
+Added Pin To Net: NetName=Package3_Package1 Pin=J2_Package1-3
+Added Pin To Net: NetName=Package3_Package1 Pin=R1_Resistors3-2
+Added Pin To Net: NetName=Package3_Package1 Pin=R2_Resistors3-1
+Added Net: Name=Package3_Package1
+Added Pin To Net: NetName=Package3_Package2 Pin=J2_Package2-3
+Added Pin To Net: NetName=Package3_Package2 Pin=R1_Resistors33-2
+Added Pin To Net: NetName=Package3_Package2 Pin=R2_Resistors33-1
+Added Net: Name=Package3_Package2
+Added Pin To Net: NetName=Package4_Package1 Pin=J2_Package1-4
+Added Pin To Net: NetName=Package4_Package1 Pin=R1_Resistors4-2
+Added Pin To Net: NetName=Package4_Package1 Pin=R2_Resistors4-1
+Added Net: Name=Package4_Package1
+Added Pin To Net: NetName=Package4_Package2 Pin=J2_Package2-4
+Added Pin To Net: NetName=Package4_Package2 Pin=R1_Resistors34-2
+Added Pin To Net: NetName=Package4_Package2 Pin=R2_Resistors34-1
+Added Net: Name=Package4_Package2
+Added Pin To Net: NetName=Package5_Package1 Pin=J2_Package1-5
+Added Pin To Net: NetName=Package5_Package1 Pin=R1_Resistors5-2
+Added Pin To Net: NetName=Package5_Package1 Pin=R2_Resistors5-1
+Added Net: Name=Package5_Package1
+Added Pin To Net: NetName=Package5_Package2 Pin=J2_Package2-5
+Added Pin To Net: NetName=Package5_Package2 Pin=R1_Resistors35-2
+Added Pin To Net: NetName=Package5_Package2 Pin=R2_Resistors35-1
+Added Net: Name=Package5_Package2
+Added Pin To Net: NetName=Package6_Package1 Pin=J2_Package1-6
+Added Pin To Net: NetName=Package6_Package1 Pin=R1_Resistors6-2
+Added Pin To Net: NetName=Package6_Package1 Pin=R2_Resistors6-1
+Added Net: Name=Package6_Package1
+Added Pin To Net: NetName=Package6_Package2 Pin=J2_Package2-6
+Added Pin To Net: NetName=Package6_Package2 Pin=R1_Resistors36-2
+Added Pin To Net: NetName=Package6_Package2 Pin=R2_Resistors36-1
+Added Net: Name=Package6_Package2
+Added Pin To Net: NetName=Package7_Package1 Pin=J2_Package1-7
+Added Pin To Net: NetName=Package7_Package1 Pin=R1_Resistors7-2
+Added Pin To Net: NetName=Package7_Package1 Pin=R2_Resistors7-1
+Added Net: Name=Package7_Package1
+Added Pin To Net: NetName=Package7_Package2 Pin=J2_Package2-7
+Added Pin To Net: NetName=Package7_Package2 Pin=R1_Resistors37-2
+Added Pin To Net: NetName=Package7_Package2 Pin=R2_Resistors37-1
+Added Net: Name=Package7_Package2
+Added Pin To Net: NetName=Package8_Package1 Pin=J2_Package1-8
+Added Pin To Net: NetName=Package8_Package1 Pin=R1_Resistors8-2
+Added Pin To Net: NetName=Package8_Package1 Pin=R2_Resistors8-1
+Added Net: Name=Package8_Package1
+Added Pin To Net: NetName=Package8_Package2 Pin=J2_Package2-8
+Added Pin To Net: NetName=Package8_Package2 Pin=R1_Resistors38-2
+Added Pin To Net: NetName=Package8_Package2 Pin=R2_Resistors38-1
+Added Net: Name=Package8_Package2
+Added Pin To Net: NetName=Package9_Package1 Pin=J2_Package1-9
+Added Pin To Net: NetName=Package9_Package1 Pin=R1_Resistors9-2
+Added Pin To Net: NetName=Package9_Package1 Pin=R2_Resistors9-1
+Added Net: Name=Package9_Package1
+Added Pin To Net: NetName=Package9_Package2 Pin=J2_Package2-9
+Added Pin To Net: NetName=Package9_Package2 Pin=R1_Resistors39-2
+Added Pin To Net: NetName=Package9_Package2 Pin=R2_Resistors39-1
+Added Net: Name=Package9_Package2
+Added Pin To Net: NetName=Package10_Package1 Pin=J2_Package1-10
+Added Pin To Net: NetName=Package10_Package1 Pin=R1_Resistors10-2
+Added Pin To Net: NetName=Package10_Package1 Pin=R2_Resistors10-1
+Added Net: Name=Package10_Package1
+Added Pin To Net: NetName=Package10_Package2 Pin=J2_Package2-10
+Added Pin To Net: NetName=Package10_Package2 Pin=R1_Resistors40-2
+Added Pin To Net: NetName=Package10_Package2 Pin=R2_Resistors40-1
+Added Net: Name=Package10_Package2
+Added Pin To Net: NetName=Package11_Package1 Pin=J2_Package1-11
+Added Pin To Net: NetName=Package11_Package1 Pin=R1_Resistors11-2
+Added Pin To Net: NetName=Package11_Package1 Pin=R2_Resistors11-1
+Added Net: Name=Package11_Package1
+Added Pin To Net: NetName=Package11_Package2 Pin=J2_Package2-11
+Added Pin To Net: NetName=Package11_Package2 Pin=R1_Resistors41-2
+Added Pin To Net: NetName=Package11_Package2 Pin=R2_Resistors41-1
+Added Net: Name=Package11_Package2
+Added Pin To Net: NetName=Package12_Package1 Pin=J2_Package1-12
+Added Pin To Net: NetName=Package12_Package1 Pin=R1_Resistors12-2
+Added Pin To Net: NetName=Package12_Package1 Pin=R2_Resistors12-1
+Added Net: Name=Package12_Package1
+Added Pin To Net: NetName=Package12_Package2 Pin=J2_Package2-12
+Added Pin To Net: NetName=Package12_Package2 Pin=R1_Resistors42-2
+Added Pin To Net: NetName=Package12_Package2 Pin=R2_Resistors42-1
+Added Net: Name=Package12_Package2
+Added Pin To Net: NetName=Package13_Package1 Pin=J2_Package1-13
+Added Pin To Net: NetName=Package13_Package1 Pin=R1_Resistors13-2
+Added Pin To Net: NetName=Package13_Package1 Pin=R2_Resistors13-1
+Added Net: Name=Package13_Package1
+Added Pin To Net: NetName=Package13_Package2 Pin=J2_Package2-13
+Added Pin To Net: NetName=Package13_Package2 Pin=R1_Resistors43-2
+Added Pin To Net: NetName=Package13_Package2 Pin=R2_Resistors43-1
+Added Net: Name=Package13_Package2
+Added Pin To Net: NetName=Package14_Package1 Pin=J2_Package1-14
+Added Pin To Net: NetName=Package14_Package1 Pin=R1_Resistors14-2
+Added Pin To Net: NetName=Package14_Package1 Pin=R2_Resistors14-1
+Added Net: Name=Package14_Package1
+Added Pin To Net: NetName=Package14_Package2 Pin=J2_Package2-14
+Added Pin To Net: NetName=Package14_Package2 Pin=R1_Resistors44-2
+Added Pin To Net: NetName=Package14_Package2 Pin=R2_Resistors44-1
+Added Net: Name=Package14_Package2
+Added Pin To Net: NetName=Package15_Package1 Pin=J2_Package1-15
+Added Pin To Net: NetName=Package15_Package1 Pin=R1_Resistors15-2
+Added Pin To Net: NetName=Package15_Package1 Pin=R2_Resistors15-1
+Added Net: Name=Package15_Package1
+Added Pin To Net: NetName=Package15_Package2 Pin=J2_Package2-15
+Added Pin To Net: NetName=Package15_Package2 Pin=R1_Resistors45-2
+Added Pin To Net: NetName=Package15_Package2 Pin=R2_Resistors45-1
+Added Net: Name=Package15_Package2
+Added Pin To Net: NetName=Package16_Package1 Pin=J3_Package1-1
+Added Pin To Net: NetName=Package16_Package1 Pin=R1_Resistors16-2
+Added Pin To Net: NetName=Package16_Package1 Pin=R2_Resistors16-1
+Added Net: Name=Package16_Package1
+Added Pin To Net: NetName=Package16_Package2 Pin=J3_Package2-1
+Added Pin To Net: NetName=Package16_Package2 Pin=R1_Resistors46-2
+Added Pin To Net: NetName=Package16_Package2 Pin=R2_Resistors46-1
+Added Net: Name=Package16_Package2
+Added Pin To Net: NetName=Package17_Package1 Pin=J3_Package1-2
+Added Pin To Net: NetName=Package17_Package1 Pin=R1_Resistors17-2
+Added Pin To Net: NetName=Package17_Package1 Pin=R2_Resistors17-1
+Added Net: Name=Package17_Package1
+Added Pin To Net: NetName=Package17_Package2 Pin=J3_Package2-2
+Added Pin To Net: NetName=Package17_Package2 Pin=R1_Resistors47-2
+Added Pin To Net: NetName=Package17_Package2 Pin=R2_Resistors47-1
+Added Net: Name=Package17_Package2
+Added Pin To Net: NetName=Package18_Package1 Pin=J3_Package1-3
+Added Pin To Net: NetName=Package18_Package1 Pin=R1_Resistors18-2
+Added Pin To Net: NetName=Package18_Package1 Pin=R2_Resistors18-1
+Added Net: Name=Package18_Package1
+Added Pin To Net: NetName=Package18_Package2 Pin=J3_Package2-3
+Added Pin To Net: NetName=Package18_Package2 Pin=R1_Resistors48-2
+Added Pin To Net: NetName=Package18_Package2 Pin=R2_Resistors48-1
+Added Net: Name=Package18_Package2
+Added Pin To Net: NetName=Package19_Package1 Pin=J3_Package1-4
+Added Pin To Net: NetName=Package19_Package1 Pin=R1_Resistors19-2
+Added Pin To Net: NetName=Package19_Package1 Pin=R2_Resistors19-1
+Added Net: Name=Package19_Package1
+Added Pin To Net: NetName=Package19_Package2 Pin=J3_Package2-4
+Added Pin To Net: NetName=Package19_Package2 Pin=R1_Resistors49-2
+Added Pin To Net: NetName=Package19_Package2 Pin=R2_Resistors49-1
+Added Net: Name=Package19_Package2
+Added Pin To Net: NetName=Package20_Package1 Pin=J3_Package1-5
+Added Pin To Net: NetName=Package20_Package1 Pin=R1_Resistors20-2
+Added Pin To Net: NetName=Package20_Package1 Pin=R2_Resistors20-1
+Added Net: Name=Package20_Package1
+Added Pin To Net: NetName=Package20_Package2 Pin=J3_Package2-5
+Added Pin To Net: NetName=Package20_Package2 Pin=R1_Resistors50-2
+Added Pin To Net: NetName=Package20_Package2 Pin=R2_Resistors50-1
+Added Net: Name=Package20_Package2
+Added Pin To Net: NetName=Package21_Package1 Pin=J3_Package1-6
+Added Pin To Net: NetName=Package21_Package1 Pin=R1_Resistors21-2
+Added Pin To Net: NetName=Package21_Package1 Pin=R2_Resistors21-1
+Added Net: Name=Package21_Package1
+Added Pin To Net: NetName=Package21_Package2 Pin=J3_Package2-6
+Added Pin To Net: NetName=Package21_Package2 Pin=R1_Resistors51-2
+Added Pin To Net: NetName=Package21_Package2 Pin=R2_Resistors51-1
+Added Net: Name=Package21_Package2
+Added Pin To Net: NetName=Package22_Package1 Pin=J3_Package1-7
+Added Pin To Net: NetName=Package22_Package1 Pin=R1_Resistors22-2
+Added Pin To Net: NetName=Package22_Package1 Pin=R2_Resistors22-1
+Added Net: Name=Package22_Package1
+Added Pin To Net: NetName=Package22_Package2 Pin=J3_Package2-7
+Added Pin To Net: NetName=Package22_Package2 Pin=R1_Resistors52-2
+Added Pin To Net: NetName=Package22_Package2 Pin=R2_Resistors52-1
+Added Net: Name=Package22_Package2
+Added Pin To Net: NetName=Package23_Package1 Pin=J3_Package1-8
+Added Pin To Net: NetName=Package23_Package1 Pin=R1_Resistors23-2
+Added Pin To Net: NetName=Package23_Package1 Pin=R2_Resistors23-1
+Added Net: Name=Package23_Package1
+Added Pin To Net: NetName=Package23_Package2 Pin=J3_Package2-8
+Added Pin To Net: NetName=Package23_Package2 Pin=R1_Resistors53-2
+Added Pin To Net: NetName=Package23_Package2 Pin=R2_Resistors53-1
+Added Net: Name=Package23_Package2
+Added Pin To Net: NetName=Package24_Package1 Pin=J3_Package1-9
+Added Pin To Net: NetName=Package24_Package1 Pin=R1_Resistors24-2
+Added Pin To Net: NetName=Package24_Package1 Pin=R2_Resistors24-1
+Added Net: Name=Package24_Package1
+Added Pin To Net: NetName=Package24_Package2 Pin=J3_Package2-9
+Added Pin To Net: NetName=Package24_Package2 Pin=R1_Resistors54-2
+Added Pin To Net: NetName=Package24_Package2 Pin=R2_Resistors54-1
+Added Net: Name=Package24_Package2
+Added Pin To Net: NetName=Package25_Package1 Pin=J3_Package1-10
+Added Pin To Net: NetName=Package25_Package1 Pin=R1_Resistors25-2
+Added Pin To Net: NetName=Package25_Package1 Pin=R2_Resistors25-1
+Added Net: Name=Package25_Package1
+Added Pin To Net: NetName=Package25_Package2 Pin=J3_Package2-10
+Added Pin To Net: NetName=Package25_Package2 Pin=R1_Resistors55-2
+Added Pin To Net: NetName=Package25_Package2 Pin=R2_Resistors55-1
+Added Net: Name=Package25_Package2
+Added Pin To Net: NetName=Package26_Package1 Pin=J3_Package1-11
+Added Pin To Net: NetName=Package26_Package1 Pin=R1_Resistors26-2
+Added Pin To Net: NetName=Package26_Package1 Pin=R2_Resistors26-1
+Added Net: Name=Package26_Package1
+Added Pin To Net: NetName=Package26_Package2 Pin=J3_Package2-11
+Added Pin To Net: NetName=Package26_Package2 Pin=R1_Resistors56-2
+Added Pin To Net: NetName=Package26_Package2 Pin=R2_Resistors56-1
+Added Net: Name=Package26_Package2
+Added Pin To Net: NetName=Package27_Package1 Pin=J3_Package1-12
+Added Pin To Net: NetName=Package27_Package1 Pin=R1_Resistors27-2
+Added Pin To Net: NetName=Package27_Package1 Pin=R2_Resistors27-1
+Added Net: Name=Package27_Package1
+Added Pin To Net: NetName=Package27_Package2 Pin=J3_Package2-12
+Added Pin To Net: NetName=Package27_Package2 Pin=R1_Resistors57-2
+Added Pin To Net: NetName=Package27_Package2 Pin=R2_Resistors57-1
+Added Net: Name=Package27_Package2
+Added Pin To Net: NetName=Package28_Package1 Pin=J3_Package1-13
+Added Pin To Net: NetName=Package28_Package1 Pin=R1_Resistors28-2
+Added Pin To Net: NetName=Package28_Package1 Pin=R2_Resistors28-1
+Added Net: Name=Package28_Package1
+Added Pin To Net: NetName=Package28_Package2 Pin=J3_Package2-13
+Added Pin To Net: NetName=Package28_Package2 Pin=R1_Resistors58-2
+Added Pin To Net: NetName=Package28_Package2 Pin=R2_Resistors58-1
+Added Net: Name=Package28_Package2
+Added Pin To Net: NetName=Package29_Package1 Pin=J3_Package1-14
+Added Pin To Net: NetName=Package29_Package1 Pin=R1_Resistors29-2
+Added Pin To Net: NetName=Package29_Package1 Pin=R2_Resistors29-1
+Added Net: Name=Package29_Package1
+Added Pin To Net: NetName=Package29_Package2 Pin=J3_Package2-14
+Added Pin To Net: NetName=Package29_Package2 Pin=R1_Resistors59-2
+Added Pin To Net: NetName=Package29_Package2 Pin=R2_Resistors59-1
+Added Net: Name=Package29_Package2
+Added Pin To Net: NetName=Package30_Package1 Pin=J3_Package1-15
+Added Pin To Net: NetName=Package30_Package1 Pin=R1_Resistors30-2
+Added Pin To Net: NetName=Package30_Package1 Pin=R2_Resistors30-1
+Added Net: Name=Package30_Package1
+Added Pin To Net: NetName=Package30_Package2 Pin=J3_Package2-15
+Added Pin To Net: NetName=Package30_Package2 Pin=R1_Resistors60-2
+Added Pin To Net: NetName=Package30_Package2 Pin=R2_Resistors60-1
+Added Net: Name=Package30_Package2
+Added Class: Name=Package1
+Added Class: Name=Package2
+Added Class: Name=Resistors31
+Added Class: Name=Resistors32
+Added Class: Name=Resistors33
+Added Class: Name=Resistors34
+Added Class: Name=Resistors35
+Added Class: Name=Resistors36
+Added Class: Name=Resistors37
+Added Class: Name=Resistors38
+Added Class: Name=Resistors39
+Added Class: Name=Resistors40
+Added Class: Name=Resistors41
+Added Class: Name=Resistors42
+Added Class: Name=Resistors43
+Added Class: Name=Resistors44
+Added Class: Name=Resistors45
+Added Class: Name=Resistors46
+Added Class: Name=Resistors47
+Added Class: Name=Resistors48
+Added Class: Name=Resistors49
+Added Class: Name=Resistors50
+Added Class: Name=Resistors51
+Added Class: Name=Resistors52
+Added Class: Name=Resistors53
+Added Class: Name=Resistors54
+Added Class: Name=Resistors55
+Added Class: Name=Resistors56
+Added Class: Name=Resistors57
+Added Class: Name=Resistors58
+Added Class: Name=Resistors59
+Added Class: Name=Resistors60
+Added Class: Name=Package Sockets
+Added Member To Class: ClassName=Resistors Member=Resistors1 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors2 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors3 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors4 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors5 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors6 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors7 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors8 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors9 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors10 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors11 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors12 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors13 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors14 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors15 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors16 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors17 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors18 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors19 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors20 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors21 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors22 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors23 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors24 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors25 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors26 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors27 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors28 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors29 (Resistors.SchDoc)
+Added Member To Class: ClassName=Resistors Member=Resistors30 (Resistors.SchDoc)

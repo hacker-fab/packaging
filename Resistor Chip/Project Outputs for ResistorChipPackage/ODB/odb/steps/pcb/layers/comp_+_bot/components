@@ -1,0 +1,56 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+
+#
+#Component attribute text strings
+#
+
+# CMP 0
+CMP 2 25.0000008 8.89 90 N J2 PPTC101LFBN-RC ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'http://www.sullinscorp.com/drawings/78_P(N)PxCxxxLFBN-RC,_10492-H.pdf'
+PRP Height '8.5mm'
+PRP Manufacturer_Name 'Sullins'
+PRP Manufacturer_Part_Number 'PPTC101LFBN-RC'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 25.0000008 8.89 90 N 15 0 1
+TOP 1 25.0000008 6.35 90 N 13 0 2
+TOP 2 25.0000008 3.81 90 N 11 0 3
+TOP 3 25.0000008 1.27 90 N 9 0 4
+TOP 4 25.0000008 -1.27 90 N 7 0 5
+TOP 5 25.0000008 -3.81 90 N 5 0 6
+TOP 6 25.0000008 -6.35 90 N 3 0 7
+TOP 7 25.0000008 -8.89 90 N 1 0 8
+TOP 8 25.0000008 -11.43 90 N 17 2 9
+TOP 9 25.0000008 -13.97 90 N 17 1 10
+#
+# CMP 1
+CMP 2 -25.0000008 8.89 90 N J1 PPTC101LFBN-RC ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'http://www.sullinscorp.com/drawings/78_P(N)PxCxxxLFBN-RC,_10492-H.pdf'
+PRP Height '8.5mm'
+PRP Manufacturer_Name 'Sullins'
+PRP Manufacturer_Part_Number 'PPTC101LFBN-RC'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 -25.0000008 8.89 90 N 16 0 1
+TOP 1 -25.0000008 6.35 90 N 14 0 2
+TOP 2 -25.0000008 3.81 90 N 12 0 3
+TOP 3 -25.0000008 1.27 90 N 10 0 4
+TOP 4 -25.0000008 -1.27 90 N 8 0 5
+TOP 5 -25.0000008 -3.81 90 N 6 0 6
+TOP 6 -25.0000008 -6.35 90 N 4 0 7
+TOP 7 -25.0000008 -8.89 90 N 2 0 8
+TOP 8 -25.0000008 -11.43 90 N 17 4 9
+TOP 9 -25.0000008 -13.97 90 N 17 3 10
+#
